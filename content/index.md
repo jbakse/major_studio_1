@@ -12,5 +12,5 @@
 <script type="text/javascript" src="sierpinski.js"></script>
 
 # Assignments
-## [Assignment 0 — Introduction](assignment_1)
+## [Assignment 0 — Introduction](assignment_0)
 
