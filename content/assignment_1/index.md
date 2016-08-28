@@ -1,4 +1,4 @@
-# 7 in 7 Project
+# Assignment 1 - 7 in 7 Project
 
 In today's class each of you will develop a method or constraint to guide the conceptualization of a daily project.
 

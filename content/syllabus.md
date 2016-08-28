@@ -17,7 +17,7 @@
 
 The goal of Major Studio 1 is to introduce students to the design process, research methods and studio critique environment. The course is a space for critical thinking and discussion about evolving issues in the fields of design and technology. The course is not a technical class, but rather dedicated to exploring the development of concept and process for which innovative use of tools and media will be applied.
 
-The course is run in a studio format, with the primary focus being the creation of self-directed work. Students will work individually and in groups to produce both theoretical and applied projects. In addition to making, all students are also required to contribute to discussion and critique as a substantial part of their grade to demonstrate their understanding and perspective on the subjects studied. Readings,  research and writing assignments will complement design projects. Thematics include considering community of practice; design constraints and rules; speculation and hypothesis; public engagement; design context and impact.
+The course is run in a studio format, with the primary focus being the creation of self-directed work. Students will work individually and in groups to produce both theoretical and applied projects. In addition to making, all students are also required to contribute to discussion and critique as a substantial part of their grade to demonstrate their understanding and perspective on the subjects studied. Readings, research and writing assignments will complement design projects. Thematics include considering community of practice; design constraints and rules; speculation and hypothesis; public engagement; design context and impact.
 
 Major Studio 1 is the first in a series of four MFADT Studio courses: Major Studio 1, Major Studio 2, Thesis Studio 1 and Thesis Studio 2. These four courses are the core of the curriculum, with technical and academic electives supporting the central studio. Major Studios focus on development of concept and method; while support electives concentrate on technical development. Students are responsible for establishing intersections across different classes in their course of study.
 
@@ -29,8 +29,8 @@ By the successful completion of this course, students should be able to:
 - Demonstrate proficiency with research strategies in the presentation and documentation of creative practice.
 - Apply analytical thinking and constructive criticism to argue in defense of their own work, or in the discussion of others.
 - Demonstrate proficiency with ideas related to the social context and history of design and technology, especially as related to their own work.
-- Exhibit particular attention to detail, craft and the development of craft skills
-Work productively in small team and collaborative contexts.
+- Exhibit particular attention to detail, craft and the development of craft skills.
+- Work productively in small team and collaborative contexts.
 - Demonstrate proficiency with various forms of design writing, including but not limited to design criticism, design briefs, self-assessment, and user scenarios.
 
 
@@ -40,7 +40,7 @@ Work productively in small team and collaborative contexts.
 
 The course has four primary assignments exploring design and technology within a physical, social, and cultural framework. Projects will be created both individually and in groups at the discretion of the faculty.
 
-- Design Constraints and Rules; 2 week
+- Design Constraints and Rules; 2 weeks
 - Speculation and the Hypothesis; 2 weeks
 - Instruction Sets for Strangers, an urban space project, 3 weeks
 - Final individual project: research, concept, design and execution, 8 weeks
@@ -59,7 +59,7 @@ When presenting, students should explain:
 ### Writing and Research
 The ability to formulate and present a strong argument is essential to all creative work. Students will do a variety of writing, which may include automatic writing, reflection documents, blog posts, design briefs, and user scenarios. Students will also write a 4500 - 5000 word (5 - 6 page) paper, to outline the research and defend the concept of their final projects.
 
-All papers should be single spaced, with one inch margins / header / footer, 10 point type, and end noted in Chicago Turabian style.  Students will be required make an appointment with the writing center after writing their rough draft to get feedback on the development of their argument and assistance with citing their sources.
+All papers should be single spaced, with one inch margins / header / footer, 10 point type, and end noted in Chicago Turabian style.  Students will be required to make an appointment with the writing center after writing their rough draft to get feedback on the development of their argument and assistance with citing their sources.
 
 ### Reading and Discussion
 

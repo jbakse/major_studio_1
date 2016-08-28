@@ -83,7 +83,7 @@ Craft + Presentation | Critical response to Readings
 ## Assignment: Get Ready for MS1
 `6:15`
 
-We need to get everything set up before launch into our first major assignment, 7 in 7, which will be introduced on Wednesday.
+We need to get everything set up before we launch into our first major assignment, 7 in 7, which will be introduced on Wednesday.
 
 ### Set up your Personal Website
 `Due Tuesday 11:59pm`
@@ -92,7 +92,7 @@ We need to get everything set up before launch into our first major assignment, 
 
 ### Document your Assignment 0
 `Due Tuesday 11:59pm`
-- Create a page on your Personal Website about your Assignment 0 response.
+- Create a page on your Personal Website about your *Assignment 0* response.
 - Document your project with a mix of images, videos, or other media as best fits your response.
 - Include a write-up that explains your project. Your write-up should be **exactly** 100 words.
 
@@ -103,12 +103,12 @@ We need to get everything set up before launch into our first major assignment, 
 - Create your channel (name it `firstname_lastname` or `preferredname_lastname`)
 - Post your photo, full name, and preferred name to your channel.
 - Post a link to your personal website to your channel.
-- Post a link to your project 0 documentation to your channel.
+- Post a link to your *Assignment 0* documentation to your channel.
 
 ### Slack Responses
 `Due Wednesday 3:00pm`
 - Subscribe to all the student channels in Slack.
-- Choose three of your classmates and write a 50+ word comment providing feedback to their Assignment 0 project and/or documentation site. Post your comment to their channel.
+- Choose three of your classmates and write a 50+ word comment providing feedback to their *Assignment 0* project and/or documentation site. Post your comment to their channel.
 - Choose classmates you do not know, and don't choose a classmate that already has three responses in their channel.
 - Your post can be casual, and should be constructive. Include specific criticisms and suggestions.
 
