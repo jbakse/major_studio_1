@@ -80,13 +80,13 @@ Reading Moderation Students will sign up in groups of 2 - 3 to moderate discussi
 
 ### Personal Site
 
-Students will post all course work, including reading responses, writing assignments, project prototypes, work in progress and final documentation, and final projects to their own website. Students may host their own site however they choose. Creating, maintaining and hosting web site is the students responsibility and students are encouraged to choose a hosting solution that matches their existing skill level in creating websites. Some possibilities include basic shared hosting, AWS, Github pages, Tumblr, and Wordpress. Students are free to add this work to their existing personal site or create a separate site for the course.
+Students will post all course work, including reading responses, writing assignments, project prototypes, work in progress and final documentation, and final projects to their own website. Students may host their own site however they choose. Creating, maintaining and hosting web site is the students responsibility and students are encouraged to choose a hosting solution that matches their existing skill level creating websites. Some possibilities include basic shared hosting, AWS, Github pages, Tumblr, and Wordpress. Students are free to add course work to their existing personal site or create a separate site for the course.
 
 ### Class Slack
 
 This class will use a [Slack team](https://ms1-d.slack.com) to organize class communication in several ways.
 - Homework Channel: You will turn in your assignments by posting links **and only links** to this channel as soon as you post your work to your own site. This will make it easy for the class to find and see your work. **If you don't post a link here, your homework isn't turned in.**
-- Official Channel: This channel will class information, announcements, and resources. The instructor will be the primary poster in this channel, but students and groups leading in class discussion or workshops may also post here.
+- Official Channel: This channel will class information, announcements, and resources. The instructor will be the primary poster in this channel, but students and groups leading in class discussion or workshops may also post here. You may also post questions here that are relevant to the whole class. You will be expected to follow this channel closely.
 - Open Discussion Channel: This channel will be use for public real-time chat outside of classroom hours.
 - Student Channels: Each student should create a channel for discussion of their projects. This channel will be used by the class to provide written feedback in connection with class crits.
 
