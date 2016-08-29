@@ -1,5 +1,9 @@
 # Week 1, Monday August 29th
 
+[Kraftwerk - Music Non Stop](https://www.youtube.com/watch?v=lj1qLbJfmE8)
+[Rebecca Allen @ Wired](http://www.wired.com/2012/04/kraftwerk-rebecca-allen/)
+
+
 # Welcome! + Class Overview
 `3:50`
 
