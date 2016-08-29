@@ -30,6 +30,7 @@ Craft + Presentation | Critical response to Readings
 - Schedule is going to change.
 - Attendance.
 - Plagiarism.
+- Workload.
 - Questions?
 
 
