@@ -19,4 +19,5 @@
 ### [Assignment 1, 7 in 7](#)
 
 ## Class Notes
-### Week 1 [Monday](week_1/monday.html), [Tuesday](#)
+### Week 1 [Monday](week_1/monday.html), [Wednesday](week_1/wednesday.html)
+### Week 2 [Monday](week_2/monday.html), [Wednesday](week_2/wednesday.html)
