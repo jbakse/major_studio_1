@@ -4,6 +4,10 @@
 [Rebecca Allen @ Wired](http://www.wired.com/2012/04/kraftwerk-rebecca-allen/)
 
 
+# THIS IS MAJOR STUDIO 1, SECTION D, WITH JUSTIN BAKSE
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 # Welcome! + Class Overview
 `3:50`
 
