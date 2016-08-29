@@ -1,3 +1,10 @@
+Prototyping:
+Thought Prototyping (like thought experiments with a bit of socratic method and a bit but what if...)
+Paper Prototyping
+Interaction Charades
+
+
+
 | Week | Topic | Tool
 | --- | --- | ---
 | | **Design Constraints** |

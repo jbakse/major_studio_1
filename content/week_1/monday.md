@@ -78,14 +78,16 @@ Craft + Presentation | Critical response to Readings
 - best executed
 
 ## Justin Intro
-`5:50`
+`5:45`
 
 [Teaching Philosophy Talk](http://psam3060-d-s16.github.io/class_notes/philosophy/)
 
 ## Advice
-`6:05`
+`6:00`
 
 [Advice for Art Students](advice.html)
+[Better Advice - Sister Corita Kent](https://inventoryofeverything.files.wordpress.com/2013/09/sister-crotia.jpg)
+
 
 
 ## Assignment: Get Ready for MS1
