@@ -27,6 +27,6 @@ to do another iteration of the project what would you change or refine?
 
 
 ### Deliverables:
-- Document your projects each day and blog about the conceptualization, development and outcome of each. Post links to your posts in the 7-in-7 channel on Slack.
+- Document your projects each day and blog about the conceptualization, development and outcome of each. Add links to your posts in your channel on Slack. **Pin your links.**
 - Each day review the work of your classmates and comment on each other's work on Slack.
 - At the end of the project make a post of your reflections on the experience as a whole.

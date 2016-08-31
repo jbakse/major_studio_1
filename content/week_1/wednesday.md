@@ -22,7 +22,7 @@ Brian Eno - [Ambient 1/Music for Airports - 2/1](https://www.youtube.com/watch?v
 
 
 
-### Community of Practice Mapping Workshop
+## Community of Practice Mapping Workshop
 `4:00`
 Intro + Team up
 
@@ -38,25 +38,45 @@ Round 1: Team
 
 Create a mapping of each individual as well as the connections between individuals within the group. It is okay to include personal information, but pay special attention to areas of inquiry and topics of interest for each person.
 
-`4:25`
+`4:20`
 Round 2: + Class, AMT Faculty, Parsons Resources
 
 Extend this map to include your classmates, the MFADT faculty, and New School resources. This will require some research on the part of your group. What do you know, and what do you not yet know? How would you go about acquiring the information you need? Incorporate these flows into the map.
 
-`4:45`
+`4:40`
 Round 3: + team research interest
 
 Work as a team to choose a topic to incorporate into your map. Do not spend more than 5 minutes choosing this topic. Work together to research your topic and incorporate your findings into your map.
 
+## Mapping Examples
+`5:25`
 
-### Assignment 1: 7 in 7
+### Andrea Geyer - Revolt, They Said
+![Revolt, They Said](http://www.andreageyer.info/revolttheysaid/revolt_2.jpg)
+
+[Revolt, They Said](http://www.andreageyer.info/revolttheysaid/index.html)
+[@Whitney](http://whitney.org/Events/AndreaGeyerItsTimeSheSaid)
+
+### Mark Lombardi
+![Example 1](http://www.albany.edu/museum/wwwmuseum/work/lombardi/images/lombardi1.jpg)
+![Example 2](http://www.fronterad.com/sites/default/files/2011/32/galeria_N3_B1/originals_1976-marklombardi_550.jpg)
+
+[Ben Fry on Lombardi](http://benfry.com/exd09/)
+
+### Russel Monroe (XKCD)
+![Movie Narrative Charts](http://imgs.xkcd.com/comics/movie_narrative_charts_large.png)
+[Movie Narrative Charts](https://xkcd.com/657/)
+
+![Online Communities 2](https://imgs.xkcd.com/comics/online_communities_2.png)
+
+[Online Communities 2](https://xkcd.com/802/)
+
+## Assignment 1: 7 in 7
 `5:30`
 [Assignment 1 - 7 in 7](../assignment_1)
 
-### Charles Eames Design Q&A
+## Charles Eames Design Q&A
 `5:40`
-
-
 
 ![Eames](http://www.pbs.org/wnet/americanmasters/files/2015/06/Mezzanine_054.jpg)
 ![Eames Plywood Chair](http://shop.eamesoffice.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/i/li_emo_p_20001009_410_g.jpg)
