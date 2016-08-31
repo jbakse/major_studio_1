@@ -71,6 +71,16 @@ Work as a team to choose a topic to incorporate into your map. Do not spend more
 
 [Online Communities 2](https://xkcd.com/802/)
 
+### Jeremy Deller
+![acid brass](http://66.media.tumblr.com/tumblr_m3969tQTn21rrm1vao1_1280.jpg)
+
+### Every Noise
+[http://everynoise.com/engenremap.html](http://everynoise.com/engenremap.html)
+
+### Map of Metal
+[http://mapofmetal.com/#/home](http://mapofmetal.com/#/home)
+
+
 ## Assignment 1: 7 in 7
 `5:30`
 [Assignment 1 - 7 in 7](../assignment_1)
