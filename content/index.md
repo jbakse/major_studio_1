@@ -15,9 +15,10 @@
 <script type="text/javascript" src="sierpinski.js"></script> -->
 
 ## Assignments
-### [Assignment 0, Introduction](assignment_0)
-### [Assignment 1, 7 in 7](assignment_1)
+### [Assignment 0 — Introduction](assignment_0)
+### [Assignment 1 — 7 in 7](assignment_1)
+### [Assigment 2 — One Topic, Many Projects](assignment_2)
 
 ## Class Notes
 ### Week 1 [Monday](week_1/monday.html), [Wednesday](week_1/wednesday.html)
-### Week 2 [Monday](week_2/monday.html), [Wednesday](week_2/wednesday.html)
+### Week 2 [Monday](#week_2/monday.html), [Wednesday](week_2/wednesday.html)
