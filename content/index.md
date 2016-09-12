@@ -22,3 +22,4 @@
 ## Class Notes
 ### Week 1 [Monday](week_1/monday.html), [Wednesday](week_1/wednesday.html)
 ### Week 2 [Monday](#week_2/monday.html), [Wednesday](week_2/wednesday.html)
+### Week 2 [Monday](week_3/monday.html), [Wednesday](week_3/wednesday.html)
