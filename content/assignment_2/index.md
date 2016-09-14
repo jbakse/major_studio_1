@@ -29,7 +29,7 @@ From there, you will work alone to produce a project using the subject domain re
 **Due:** Monday, September 19
 
 
-Prepare a 10 minute presentation of your individual project, including a discussion of how it addresses the above research statement.
+Prepare a 5 minute presentation of your individual project, including a discussion of how it addresses the above research statement.
 
 **Presentations:** Monday, September 19 + Wednesday, September 21
 
