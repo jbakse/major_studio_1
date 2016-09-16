@@ -19,7 +19,37 @@
 ### [Assignment 1 — 7 in 7](assignment_1)
 ### [Assigment 2 — One Topic, Many Projects](assignment_2)
 
+## Calendar
+
+<style>
+td:first-child {
+    width: 10px;
+}
+</style>
+
+Date        | Notes
+---         | ---
+Monday Sept 19   | Due: Many Projects <br/> Due: Final Reading Response <br/> Reading Workshop </br> Many Projects Presentations 1 of 2
+Wednesday Sept 21   | Many Projects Presentations 2 of 2 <br/> Assign: Whyte Reading <br/> Assign: Instruction Sets for Strangers
+    |
+Monday Sept 26 | Instruction Sets 1
+Wednesday Sept 28 | Instruction Sets 2
+|
+Monday Oct 3 | No Class - Rosh Hashanah
+Wednesday Oct 5 | Instruction Sets 3 <br> Assign: Final Project Preliminary Written Concept
+|
+Monday Oct 10 | Instruction Sets 4 <br> Due: Final Project 2 Minute Pitches
+Wednesday Oct 12 | No Class - Yom Kippur
+|
+Monday Oct 17 | Instruction Sets 5
+Wednesday Oct 19 | Final Project: Ideation, Domains & Questions
+|
+Monday Oct 24 | MIDTERMS
+
+
+
 ## Class Notes
 ### Week 1 [Monday](week_1/monday.html), [Wednesday](week_1/wednesday.html)
 ### Week 2 [Monday](#week_2/monday.html), [Wednesday](week_2/wednesday.html)
-### Week 2 [Monday](week_3/monday.html), [Wednesday](week_3/wednesday.html)
+### Week 3 [Monday](week_3/monday.html), [Wednesday](week_3/wednesday.html)
+### Week 4 [Monday](#week_4/monday.html), [Wednesday](#week_4/wednesday.html)
