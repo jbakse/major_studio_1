@@ -18,6 +18,7 @@
 ### [Assignment 0 — Introduction](assignment_0)
 ### [Assignment 1 — 7 in 7](assignment_1)
 ### [Assigment 2 — One Topic, Many Projects](assignment_2)
+### [Assigment 3 — Instruction Sets for Strangers](assignment_3)
 
 ## Calendar
 
@@ -29,23 +30,23 @@ td:first-child {
 
 Date        | Notes
 ---         | ---
-Monday Sept 19   | Due: Many Projects <br/> Due: Final Reading Response <br/> Reading Workshop </br> Many Projects Presentations 1 of 2
-Wednesday Sept 21   | Many Projects Presentations 2 of 2 <br/> Assign: Whyte Reading <br/> Assign: Instruction Sets for Strangers
+Monday Sept 19   | Due: Many Projects <br/>Reading Workshop </br> Many Projects Presentations 1 of 2
+Wednesday Sept 21   | Due: Bush Reading Response (Posted+Paper) <br/>Many Projects Presentations 2 of 2 <br/> Assigned: Whyte Reading <br/> Assigned: Instruction Sets for Strangers
     |
-Monday Sept 26 | Instruction Sets 1
-Wednesday Sept 28 | Instruction Sets 2
+Monday Sept 26 | Instruction Sets 1<br/>Due: Location Reports<br/>Due: Whyte Reading Response (Posted)<br/>Intervention Planning
+Wednesday Sept 28 | Instruction Sets 2<br/>Due: Intervention Proposal<br/>Whyte Reading Workshop
 |
 Monday Oct 3 | No Class - Rosh Hashanah
-Wednesday Oct 5 | Instruction Sets 3 <br> Assign: Final Project Preliminary Written Concept
+Wednesday Oct 5 | Instruction Sets 3<br/>Due: Prototype Reports<br> Assign: Final Project Preliminary Written Concept
 |
-Monday Oct 10 | Instruction Sets 4 <br> Due: Final Project 2 Minute Pitches
+Monday Oct 10 | Instruction Sets 4<br/>Final Presentations<br/> Due: Final Project 2 Minute Pitches
 Wednesday Oct 12 | No Class - Yom Kippur
 |
-Monday Oct 17 | Instruction Sets 5
+Monday Oct 17 | Final Project: Ideation, Domains & Questions
 Wednesday Oct 19 | Final Project: Ideation, Domains & Questions
 |
-Monday Oct 24 | MIDTERMS
-
+Monday Oct 24 | **MIDTERM** presentations: final project concepts, prototyping ideas
+Wednesday Oct 26 | **MIDTERM** presentations: final project concepts, prototyping ideas
 
 
 ## Class Notes

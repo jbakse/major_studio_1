@@ -16,6 +16,9 @@ Working in groups of 2-3 design an intervention for a space that enables strange
 - Realistically prototype and iterate within your chosen space, in your given time frame.
 - Communicate your results in group presentation and critique.
 
+- **Don't be a Jerk**
+- **Don't get Arrested**
+
 
 ## Guiding Questions
 
@@ -28,16 +31,22 @@ Working in groups of 2-3 design an intervention for a space that enables strange
 
 ## Process
 
-### Problem definition, Analysis (1 week)
+### Problem definition, Analysis (5 Days)
 This project explores interface as a connector between people in socially mobile contexts. Working in teams of 2-3, monitor and record a space at different times of day. Pay attention to modes of interaction within the space, as well as physical, social, personal, spatial, and cultural behaviors. Consider multiple strategies for recording the action/interaction between people/groups in the space. Map, document and share the results of your observation. Define the parameters of the design issue you are addressing. Go to the library and research your assumptions and consider alternatives.
 
-### Create non-textual instruction sets for a public space (1 week)
+**Due Monday September 26:** Location Report
+
+### Propose non-textual instruction sets for a public space (2 Days!)
 Create an instruction set for strangers that augments some aspect of interaction you’ve observed (person-to-person, person-to-group, or group-to-group) and document it. Push to maximize or minimize the effect of the interaction that your observational or other research revealed. This augmentation, or invitation to participate must be non-textual in that it cannot rely on textual language for communication. Instead, explore audio, gestural, and visual means of expression. Observe the context and scenarios for the instruction sets. What are the intentions and assumptions that you are making for the instruction set? What is the back story? Why this instruction set?
 
-### Prototyping, Testing, Iterating, Documenting (1-2 weeks)
+**Due Wednesday September 28:** Intervention Proposal
+
+### Prototyping, Testing, Iterating, Documenting (12 Days)
 Collaborate with your group to make at least three iterations of your design and its implementation. Record the public’s reaction to your instruction sets. What aspects do you feel are successful or unsuccessful, and why? What can be concluded from your successes and mis-calculations? Were your assumptions correct? How did your instruction set take variables of time, traffic, and scale (both of design and of space) into consideration?
 
+**Due Monday October 5:** Prototype Reports
 
+**Due Wednesday October 10:** Final Documentation and Presentation
 
 ## Optional Readings
 - The Individual as a Unit, by Erving Goffman
