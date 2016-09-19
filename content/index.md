@@ -53,4 +53,4 @@ Wednesday Oct 26 | **MIDTERM** presentations: final project concepts, prototypin
 ### Week 1 [Monday](week_1/monday.html), [Wednesday](week_1/wednesday.html)
 ### Week 2 [Monday](#week_2/monday.html), [Wednesday](week_2/wednesday.html)
 ### Week 3 [Monday](week_3/monday.html), [Wednesday](week_3/wednesday.html)
-### Week 4 [Monday](#week_4/monday.html), [Wednesday](#week_4/wednesday.html)
+### Week 4 [Monday](week_4/monday.html), [Wednesday](#week_4/wednesday.html)
