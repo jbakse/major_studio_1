@@ -11,6 +11,8 @@ Individual Meetings.
 - Watch: The Social Life of Small Urban Spaces [@ Vimeo](https://vimeo.com/111488563)
 - Read: The Social Life of Small Urban Spaces pages 10-23
 
+**Reading Response Due Monday**
+
 ## Assign Instruction Sets for Strangers
 `4:10`
 
@@ -23,11 +25,15 @@ Individual Meetings.
 - Example: [Eliza Bruce, Priyal Parikh, Miyeon Kim](https://elizabrucedt.wordpress.com/2015/10/07/instruction-sets-for-strangers-write-up-and-final-product/)
 (Current 2nd Years)
 
+**Location Report Due Monday:**
+- Choose a location.
+- Observe your location, record data.
+- Create maps, charts, and written descriptions to explain how the space is used.
+- Research history of your location.
+- Using pinned-up printouts, present an informal report on the space to the class.
+
 ## Many Projects Presentations 2/2
 `5:00`
 
 ## Many Projects Discussion
 `6:00`
-
-
-want to know something? go and look.

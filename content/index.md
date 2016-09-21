@@ -33,7 +33,7 @@ Date        | Notes
 Monday Sept 19   | Due: Many Projects <br/>Reading Workshop </br> Many Projects Presentations 1 of 2
 Wednesday Sept 21   | Due: Bush Reading Response (Posted+Paper) <br/>Many Projects Presentations 2 of 2 <br/> Assigned: Unit 2 Reading <br/> Assigned: Instruction Sets for Strangers
     |
-Monday Sept 26 | Instruction Sets 1<br/>Due: Location Reports<br/>Due: Whyte Reading Response (Posted)<br/>Intervention Planning
+Monday Sept 26 | Instruction Sets 1<br/>Due: Location Reports<br/>Due: Unit 2 Reading Response (Posted)<br/>Intervention Planning
 Wednesday Sept 28 | Instruction Sets 2<br/>Due: Intervention Proposal<br/>Whyte Reading Workshop
 |
 Monday Oct 3 | No Class - Rosh Hashanah
