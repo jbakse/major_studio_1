@@ -19,6 +19,12 @@ Working in groups of 2-3 design an intervention for a space that enables strange
 - **Don't be a Jerk**
 - **Don't get Arrested**
 
+Guidelines:
+- Keep it analog: No physical computing/electronic devices.
+- Don't leave projects unattended: stay with your work, be ready to explain what you are doing.
+- Check in with law enforcement: if there are police in the area of your project, be proactive and let them know what you are doing.
+
+
 
 ## Guiding Questions
 

@@ -31,7 +31,7 @@ td:first-child {
 Date        | Notes
 ---         | ---
 Monday Sept 19   | Due: Many Projects <br/>Reading Workshop </br> Many Projects Presentations 1 of 2
-Wednesday Sept 21   | Due: Bush Reading Response (Posted+Paper) <br/>Many Projects Presentations 2 of 2 <br/> Assigned: Whyte Reading <br/> Assigned: Instruction Sets for Strangers
+Wednesday Sept 21   | Due: Bush Reading Response (Posted+Paper) <br/>Many Projects Presentations 2 of 2 <br/> Assigned: Unit 2 Reading <br/> Assigned: Instruction Sets for Strangers
     |
 Monday Sept 26 | Instruction Sets 1<br/>Due: Location Reports<br/>Due: Whyte Reading Response (Posted)<br/>Intervention Planning
 Wednesday Sept 28 | Instruction Sets 2<br/>Due: Intervention Proposal<br/>Whyte Reading Workshop
@@ -53,4 +53,4 @@ Wednesday Oct 26 | **MIDTERM** presentations: final project concepts, prototypin
 ### Week 1 [Monday](week_1/monday.html), [Wednesday](week_1/wednesday.html)
 ### Week 2 [Monday](#week_2/monday.html), [Wednesday](week_2/wednesday.html)
 ### Week 3 [Monday](week_3/monday.html), [Wednesday](week_3/wednesday.html)
-### Week 4 [Monday](week_4/monday.html), [Wednesday](#week_4/wednesday.html)
+### Week 4 [Monday](week_4/monday.html), [Wednesday](week_4/wednesday.html)
