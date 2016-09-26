@@ -61,7 +61,7 @@ Team: Expand/explore on top 3 ideas.
 
 ## Due Next Week: Proposal
 
-A written proposal explaining your intended intervention:
+3 written proposals explaining your proposed interventions:
 
 - Brief introduction to the space
 - Motivation for intervention
@@ -71,3 +71,8 @@ A written proposal explaining your intended intervention:
 - Brief criteria for success
 
 You may include visual illustrations (such as a map of the space), but primarily this is a written summary of the idea.
+
+I suggest having each member write a proposal, then work together to improve, rewrite, edit.
+
+**Post (Slack or Site+Slack):** Your 10 Ideas
+**Post (Slack or Site+Slack):** Your 3 Proposals
