@@ -72,7 +72,7 @@ Team: Expand/explore on top 3 ideas.
 
 You may include visual illustrations (such as a map of the space), but primarily this is a written summary of the idea.
 
-I suggest having each member write a proposal, then work together to improve, rewrite, edit.
+I suggest working together as a team to develop your top 3 ideas for 10-15 minutes each, then splitting up and having each member write a proposal, then work together to improve, rewrite, edit your final proposals.
 
 **Post (Slack or Site+Slack):** Your 10 Ideas
 **Post (Slack or Site+Slack):** Your 3 Proposals
