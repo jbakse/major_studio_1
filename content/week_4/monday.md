@@ -1,4 +1,4 @@
-# Week 3, Monday September 19th
+# Week 4, Monday September 19th
 
 ## Open Discussion
 `3:50`

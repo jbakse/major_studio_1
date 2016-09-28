@@ -51,7 +51,7 @@ Wednesday Oct 26 | **MIDTERM** presentations: final project concepts, prototypin
 ### Week 2 [Monday](#week_2/monday.html), [Wednesday](week_2/wednesday.html)
 ### Week 3 [Monday](week_3/monday.html), [Wednesday](week_3/wednesday.html)
 ### Week 4 [Monday](week_4/monday.html), [Wednesday](week_4/wednesday.html)
-### Week 5 [Monday](week_5/monday.html), [Wednesday](#week_5/wednesday.html)
+### Week 5 [Monday](week_5/monday.html), [Wednesday](week_5/wednesday.html)
 
 <!--
 Monday Sept 19   | Due: Many Projects <br/>Reading Workshop </br> Many Projects Presentations 1 of 2

@@ -1,4 +1,4 @@
-# Week 3, Monday September 26th
+# Week 5, Monday September 26th
 
 - Reading Workshop Check-In
 
@@ -59,7 +59,7 @@ Team: Expand/explore on top 3 ideas.
 
 
 
-## Due Next Week: Proposal
+## Due Next TIME: Proposal
 
 **Post (Slack or Site+Slack):** Your 10 Ideas
 
