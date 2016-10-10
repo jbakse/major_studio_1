@@ -11,6 +11,8 @@
 
 [Final Project](../assignment_4)
 
+For reference: [http://mfadt.parsons.edu/2016/](http://mfadt.parsons.edu/2016/)
+
 <!--
 ## Design Question & Core Attributes Workshop
 `5:30`
