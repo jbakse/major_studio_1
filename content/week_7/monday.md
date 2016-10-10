@@ -11,6 +11,7 @@
 
 [Final Project](../assignment_4)
 
+<!--
 ## Design Question & Core Attributes Workshop
 `5:30`
 
@@ -46,4 +47,4 @@ Core attributes:
 - What kind of experience do you want people to have who engage with this work?
 - Ultimately, what problem are you trying to solve (if design-oriented)? What are you trying express, convey, explore or facilitate (if art-focused)?
 
-Synthesize, write up any unexpected findings, post to the class blog.
+Synthesize, write up any unexpected findings, post to the class blog. -->
