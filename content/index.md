@@ -19,6 +19,7 @@
 ### [Assignment 1 — 7 in 7](assignment_1)
 ### [Assignment 2 — One Topic, Many Projects](assignment_2)
 ### [Assignment 3 — Instruction Sets for Strangers](assignment_3)
+### [Assignment 4 — Final](assignment_4)
 
 ## Calendar
 
@@ -28,25 +29,21 @@ td:first-child {
 }
 </style>
 
+### Instruction Sets
 Date        | Notes
 ---         | ---
-Monday Sept 26 | Instruction Sets 1<br/>Due: Location Reports<br/>Due: Unit 2 Reading Response (Posted)<br/>Intervention Planning
-Wednesday Sept 28 | Instruction Sets 2<br/>Due: Intervention Proposal<br/>Whyte Reading Workshop
-|
-Monday Oct 3 | No Class - Rosh Hashanah
-**Wednesday Oct 5** | Instruction Sets 3<br/>Due: Prototype Reports
-|
-Monday Oct 10 | Instruction Sets 4<br/>Due: Final Reports<br/>Due: Final Documentation</br> Assign: Final Project
-Wednesday Oct 12 | No Class - Yom Kippur
+**Monday Oct 10** | Instruction Sets 4<br/>Due: Final Documentation</br> Assign: Final Project<br/>Assign: Rough Written Proposal<br/>Workshop: Design Questions + Attributes
+Wednesday Oct 12 | **No Class** - Yom Kippur
 
-
-<!--
-Monday Oct 17 | Due: Final Project 2 Minute Pitches<br/> Final Project: Ideation, Domains & Questions
-Wednesday Oct 19 | Final Project: Ideation, Domains & Questions
+### Final
+Date        | Notes
+---         | ---
+Monday Oct 17 | Final Project: Ideation, Domains & Questions<br/>Due: Rough Written Proposal<br/>Workshop: Domains + Precedents
+Wednesday Oct 19 | Final Project: Ideation, Domains & Questions<br/>In class: TBD
 |
 Monday Oct 24 | **MIDTERM** presentations: final project concepts, prototyping ideas
 Wednesday Oct 26 | **MIDTERM** presentations: final project concepts, prototyping ideas
--->
+
 
 
 ## Class Notes
@@ -55,10 +52,5 @@ Wednesday Oct 26 | **MIDTERM** presentations: final project concepts, prototypin
 ### Week 3 [Monday](week_3/monday.html), [Wednesday](week_3/wednesday.html)
 ### Week 4 [Monday](week_4/monday.html), [Wednesday](week_4/wednesday.html)
 ### Week 5 [Monday](week_5/monday.html), [Wednesday](week_5/wednesday.html)
-### Week 6 [Monday](#week_5/monday.html), [Wednesday](week_6/wednesday.html)
-
-<!--
-Monday Sept 19   | Due: Many Projects <br/>Reading Workshop </br> Many Projects Presentations 1 of 2
-Wednesday Sept 21   | Due: Bush Reading Response (Posted+Paper) <br/>Many Projects Presentations 2 of 2 <br/> Assigned: Unit 2 Reading <br/> Assigned: Instruction Sets for Strangers
-    |
--->
+### Week 6 [Monday](#week_6/monday.html), [Wednesday](week_6/wednesday.html)
+### Week 7 [Monday](week_7/monday.html), [Wednesday](#week_6/wednesday.html)
