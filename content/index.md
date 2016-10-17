@@ -32,14 +32,14 @@ td:first-child {
 ### Instruction Sets
 Date        | Notes
 ---         | ---
-**Monday Oct 10** | Instruction Sets 4<br/>Due: Final Documentation</br> Assign: Final Project<br/>Assign: Rough Written Proposal<br/>Workshop: Design Questions + Attributes
+Monday Oct 10 | Instruction Sets 4<br/>Due: Final Documentation</br> Assign: Final Project<br/>Assign: Rough Written Proposal<br/>Workshop: Design Questions + Attributes
 Wednesday Oct 12 | **No Class** - Yom Kippur
 
 ### Final
 Date        | Notes
 ---         | ---
-Monday Oct 17 | Final Project: Ideation, Domains & Questions<br/>Due: Rough Written Proposal<br/>Workshop: Domains + Precedents
-Wednesday Oct 19 | Final Project: Ideation, Domains & Questions<br/>In class: TBD
+**Monday Oct 17** | Final Project: Ideation, Domains & Questions<br/>Due: Rough Written Proposal<br/>Workshop: Domains + Precedents
+Wednesday Oct 19 | Final Project: Ideation, Domains & Questions<br/>Workshop: Questions
 |
 Monday Oct 24 | **MIDTERM** presentations: final project concepts, prototyping ideas
 Wednesday Oct 26 | **MIDTERM** presentations: final project concepts, prototyping ideas
@@ -53,4 +53,5 @@ Wednesday Oct 26 | **MIDTERM** presentations: final project concepts, prototypin
 ### Week 4 [Monday](week_4/monday.html), [Wednesday](week_4/wednesday.html)
 ### Week 5 [Monday](week_5/monday.html), [Wednesday](week_5/wednesday.html)
 ### Week 6 [Monday](#week_6/monday.html), [Wednesday](week_6/wednesday.html)
-### Week 7 [Monday](week_7/monday.html), [Wednesday](#week_6/wednesday.html)
+### Week 7 [Monday](week_7/monday.html), [Wednesday](#week_7/wednesday.html)
+### Week 8 [Monday](week_8/monday.html), [Wednesday](#week_8/wednesday.html)
