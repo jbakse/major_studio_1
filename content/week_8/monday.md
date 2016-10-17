@@ -16,7 +16,7 @@ In the early stages of design development, this exercise can reveal possible cre
 `This exercise calls for sticky notes, but you can use lists in your notebook.`
 `4:00 60 min`
 
-1. Based on the general field of interest you would like to research, write out initial areas of study, knowledge or inquiry (domains) on individual sticky notes. Set these aside. `8 Minutes, write as many as you can, cull down to best 3 or 4`
+1. Based on the general field of interest you would like to research, write out initial areas of study, knowledge or inquiry (domains) on individual sticky notes. Set these aside. `8 Minutes, write as many as you can, cull down to best 3`
 
 2. For each domain, write out initial project based responses (concepts) that you might create on individual sticky notes. Keep in mind your unique POV, and use different types of media / methods for each concept. Set these aside. `8 minutes, write 3 concepts per domain`
 
