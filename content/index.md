@@ -44,7 +44,8 @@ Wednesday Oct 19 | Final Project: Ideation, Domains & Questions<br/>Workshop: Qu
 Monday Oct 24 | **MIDTERM** presentations: final project concepts, prototyping ideas
 Wednesday Oct 26 | **MIDTERM** presentations: final project concepts, prototyping ideas
 |
-Monday Oct 31 |  PAPER PROTOTYPING!
+Monday Oct 31 |  PROTOTYPING!, 1-On-1 Checkins
+Wednesday Nov 2 |  Concept + Prototype Reports
 
 
 
@@ -58,3 +59,5 @@ Monday Oct 31 |  PAPER PROTOTYPING!
 ### Week 6 [Monday](#week_6/monday.html), [Wednesday](week_6/wednesday.html)
 ### Week 7 [Monday](week_7/monday.html), [Wednesday](#week_7/wednesday.html)
 ### Week 8 [Monday](week_8/monday.html), [Wednesday](week_8/wednesday.html)
+### Week 9 [Monday](#week_8/monday.html), [Wednesday](#week_8/wednesday.html) (Midterms)
+### Week 10 [Monday](week_10/monday.html), [Wednesday](#week_10/wednesday.html)
