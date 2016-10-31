@@ -1,8 +1,12 @@
 # Week 8, Monday October 31 Halloween!
 
+Nirvana, [Smells Like Teen Spirit Demo](https://www.youtube.com/watch?v=lECV_hl7whs)
+
+Nirvana:You::Doors:Me
+
+
 ## Announcements
 `3:50`
-- Friday: Long Table
 - Thanksgiving: The Shuffle
 
 
@@ -11,7 +15,7 @@
 
 Yoko Ono
 [Painting for the Wind](http://www.artasiapacific.com/image_columns/0000/7243/yoko_ono_painting_for_the_wind_en001.jpg)
-[Painting to Hammer a Nail in](http://www.walkerart.org/collections/artworks/painting-to-hammer-a-nail-in)
+[Painting to Hammer a Nail in](https://c2.staticflickr.com/4/3509/3775136211_521c8d406a_b.jpg), [alt](http://www.walkerart.org/collections/artworks/painting-to-hammer-a-nail-in)
 [Yoko Ono and the poetics of ephemerality](http://www.awarewomenartists.com/en/yoko-ono-poetique-de-lephemere/)
 
 Richard Serra
@@ -107,7 +111,7 @@ Specifically, I want to find out **if a scientist working alone can easily trans
 
 **Due Wednesday**
 
-You will build and test a prototype in class today. Letting your open design questions guide you, create at 1 - 3 additional prototype as homework. Some projects may suggest a few quick prototypes, others might be better informed by creating a single more developed prototype. Either way don't spend more than a couple of hours outside class on these. These initial prototypes are meant to be quick, low-fidelity prototypes.
+You will begin to build, test and document a prototype in class today. Letting your open design questions guide you, create 1 - 3 **additional** prototype as homework. Some projects may suggest a few quick prototypes, others might be better informed by creating a single more developed prototype. Either way don't spend more than 3 hours outside class on creating and documenting these. These initial prototypes are meant to be quick, low-fidelity prototypes.
 
 
 - Build 2 - 4 Prototypes
