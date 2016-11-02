@@ -60,4 +60,4 @@ Wednesday Nov 2 |  Concept + Prototype Reports
 ### Week 7 [Monday](week_7/monday.html), [Wednesday](#week_7/wednesday.html)
 ### Week 8 [Monday](week_8/monday.html), [Wednesday](week_8/wednesday.html)
 ### Week 9 [Monday](#week_8/monday.html), [Wednesday](#week_8/wednesday.html) (Midterms)
-### Week 10 [Monday](week_10/monday.html), [Wednesday](#week_10/wednesday.html)
+### Week 10 [Monday](week_10/monday.html), [Wednesday](week_10/wednesday.html)
