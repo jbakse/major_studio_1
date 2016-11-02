@@ -3,6 +3,8 @@
 
 ## Assignment Matrix
 `3:50`
+[Fill it out!](https://docs.google.com/a/newschool.edu/spreadsheets/d/18_duouly9GZ2GEePvJRrKsuBAKugB8dciQjYPJ5bcxw/edit?usp=sharing)
+
 
 ## Prototype Fair
 `4:00`
