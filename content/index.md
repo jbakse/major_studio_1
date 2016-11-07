@@ -19,8 +19,8 @@
 ### [Assignment 1 — 7 in 7](assignment_1)
 ### [Assignment 2 — One Topic, Many Projects](assignment_2)
 ### [Assignment 3 — Instruction Sets for Strangers](assignment_3)
-### [Assignment 4 — Final](assignment_4)
-
+### [Assignment 4 — Final Project](assignment_4)
+### [Assignment 5 — Final Paper](assignment_5)
 ## Calendar
 
 <style>
@@ -29,24 +29,30 @@ td:first-child {
 }
 </style>
 
-### Instruction Sets
-Date        | Notes
----         | ---
-Monday Oct 10 | Instruction Sets 4<br/>Due: Final Documentation</br> Assign: Final Project<br/>Assign: Rough Written Proposal<br/>Workshop: Design Questions + Attributes
-Wednesday Oct 12 | **No Class** - Yom Kippur
+
 
 ### Final
 Date        | Notes
 ---         | ---
-**Monday Oct 17** | Final Project: Ideation, Domains & Questions<br/>Due: Rough Written Proposal<br/>Workshop: Domains + Precedents
-Wednesday Oct 19 | Final Project: Ideation, Domains & Questions<br/>Workshop: Questions
+**Monday Nov 7** | Final Paper and Project Overview | Written Proposals Due
+Wednesday Nov 9 | Work Time + TBD
 |
-Monday Oct 24 | **MIDTERM** presentations: final project concepts, prototyping ideas
-Wednesday Oct 26 | **MIDTERM** presentations: final project concepts, prototyping ideas
+Monday Nov 14 | WIP Reviews | Project Aesthetic Due
+Wednesday Nov 16 | WIP Reviews | Paper Outline Due
 |
-Monday Oct 31 |  PROTOTYPING!, 1-On-1 Checkins
-Wednesday Nov 2 |  Concept + Prototype Reports
-
+Monday Nov 21 | Work Time, 1-on-1s
+Tuesday Nov 22 | **THANKSGIVING, NO CLASS WEDNESDAY**
+|
+Monday Nov 28 | WIP Reviews | Paper Draft Due
+Wednesday Nov 30 | WIP Reviews
+|
+Monday Dec 5 | WIP Reviews | POC Due
+Wednesday Dec 7  | Work Time | Final Paper Due
+|
+Monday Dec 12 |  **FINAL PRESENTATIONS**
+Wednesday Dec 14 |  **FINAL PRESENTATIONS**
+|
+Monday Dec 19 | TBD
 
 
 
