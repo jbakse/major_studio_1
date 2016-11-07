@@ -6,7 +6,7 @@ Your paper should describe your project’s core concept and questions; form a c
 
 
 ## Schedule
-Nov 16: Final paper outline due, includes a written introduction, introducing central questions and opinions, bullet points of overall argument, and a list of (minimum 5) research sources
+Nov 16: Final paper outline due, includes a written introduction, introducing central questions and opinions, bullet points of overall argument, and a list of (minimum 5) research sources [Example Outline](https://drive.google.com/open?id=0B-bxCrzsn4snT3NQcTN6amluVFk) Note: this example does not include a written introduction, which your should. 
 
 Nov 28: Final paper draft due, minimum 3 pages, due during 1x1 meetings
 
