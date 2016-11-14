@@ -40,7 +40,7 @@ Wednesday Nov 9 | Work Time + TBD
 Monday Nov 14 | WIP Reviews | Project Aesthetic Due
 Wednesday Nov 16 | WIP Reviews | Paper Outline Due
 |
-Monday Nov 21 | Work Time, 1-on-1s
+Monday Nov 21 | Work Time, 1-on-1s [Sign Up Sheet](https://docs.google.com/a/newschool.edu/spreadsheets/d/1uEcB9FvoeD9hyE2PJ0SfdZzFUtMtkDv8Y0mIB1sh_c8/edit?usp=sharing)
 Tuesday Nov 22 | **THANKSGIVING, NO CLASS WEDNESDAY**
 |
 Monday Nov 28 | WIP Reviews | Paper Draft Due
