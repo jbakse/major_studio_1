@@ -21,6 +21,9 @@
 ### [Assignment 3 — Instruction Sets for Strangers](assignment_3)
 ### [Assignment 4 — Final Project](assignment_4)
 ### [Assignment 5 — Final Paper](assignment_5)
+
+### [Final Assignment Info](assignment_finals)
+
 ## Calendar
 
 <style>
