@@ -4,3 +4,7 @@ This repo holds the course syllabus, assignment descriptions, class notes and ot
 
 View this content [https://jbakse.github.io/major_studio_1/](here).
 
+https://jbakse.github.io/major_studio_1/
+
+[https://jbakse.github.io/major_studio_1/](https://jbakse.github.io/major_studio_1/)
+
