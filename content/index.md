@@ -11,8 +11,12 @@
 ### [Syllabus](syllabus.html) • [Class Slack](https://ms1-d.slack.com) • [Class Notes Repo](https://github.com/jbakse/major_studio_1) • [Class Site](https://jbakse.github.io/major_studio_1/)
 
 <link rel="stylesheet" type="text/css" href="index.css">
-<!-- <script type="text/javascript" src="javascript/p5.min.js"></script>
-<script type="text/javascript" src="sierpinski.js"></script> -->
+<script type="text/javascript" src="javascript/p5.min.js"></script>
+<script type="text/javascript" src="backgrounds/bg1.js"></script>
+<style>
+canvas { position: fixed; top: 0; left: 0; z-index: -1; }
+//.container {background: rgba(255,255,255,.5);};
+</style>
 
 ## Assignments
 ### [Assignment 0 — Introduction](assignment_0)
