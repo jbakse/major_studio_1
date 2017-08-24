@@ -8,7 +8,7 @@
 | Ms 3:50pm—6:30pm, Ws 3:50-6:30pm
 | 6 East 16th Street, ROOM TBD
 
-### [Syllabus](syllabus.html) • [Class Slack](https://ms1-d.slack.com)
+### [Syllabus](#syllabus.html) • [Class Slack](https://ms1-d.slack.com)
 
 ## Assignments
 ##### [Assignment 0 — Introduction](assignment_0)
