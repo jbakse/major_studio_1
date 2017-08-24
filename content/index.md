@@ -8,7 +8,7 @@
 | M 3:50pm—6:30pm, W 3:50—6:30pm
 | 6 East 16th Street, Room D1202
 
-### [Syllabus](#syllabus.html) • [Class Slack](#https://ms1-d.slack.com)
+### [Syllabus](syllabus.html) • [Class Slack](#https://ms1-d.slack.com)
 
 ## Assignments
 ##### [Assignment 0 — Studio Introduction](assignment_studio_introduction)
@@ -88,10 +88,10 @@ M Nov 13 | User Testing Workshop | POC
 W Nov 15 | POC Discussion | POC User Tests
 |
 M Nov 20 | Discussion + Open Studio | Release Candidate 1, Reading 4
-No Class | Discussion + Open Studio, 1-on-1s | &nbsp;
+No Class | &nbsp; | &nbsp;
 |
 M Nov 27 | Discussion + Open Studio, 1-on-1s | &nbsp;
-W Nov 29 | Discussion + Open Studio | Release Candidate 2
+W Nov 29 | Discussion + Open Studio, 1-on-1s | Release Candidate 2
 |
 M Dec 4 | Discussion + Open Studio | &nbsp;
 W Dec 6 | Discussion + Open Studio | Release Candidate 3
@@ -109,11 +109,10 @@ M Dec 18 | Site Reviews, Reflection | Final Site
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
-[2016](/2016)
+<!-- [2016](/2016) -->
 
 <style>
 a[href^="#"]:not(.btn) { color: gray; text-decoration: none; }
-
 .no-class {
     background-color: #EEE;
     color: #AAA !important;
@@ -123,20 +122,14 @@ a[href^="#"]:not(.btn) { color: gray; text-decoration: none; }
     color: #000 !important;
     font-weight: bold;
 }
-
-.midterm-crit table{
-    border-color: #D3D3D3;
+table {
+    table-layout: fixed;
 }
-<!-- .final-crit {
-    background-color: #EEE;
-    color: #F00 !important;
-} -->
 td:first-child {
-    width: 100;
+    width: 100px !important;
 }
 td:nth-child(3) {
-    width: 200;
-
+    width: 200px;
 }
 thead {
     display: none;

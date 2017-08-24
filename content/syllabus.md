@@ -26,7 +26,7 @@ By the successful completion of this course, students should be able to:
 - Demonstrate competency with research strategies in the presentation and documentation of creative practice.
 - Demonstrate competency with analytical thinking to test and critically evaluate concepts, as evidenced by articulating a competent defense of their own work, and offering constructive criticism of others.
 - Demonstrate competency describing the context of their work; how their work relates to history, ideas, and other creative works in the fields of art, design and technology.
-- Work productively in small team and collaborative contexts. 
+- Work productively in small team and collaborative contexts.
 
 
 
@@ -36,10 +36,10 @@ By the successful completion of this course, students should be able to:
 
 The course has four primary assignments exploring design and technology within a physical, social, and cultural framework. Projects will be created both individually and in groups at the discretion of the faculty.
 
-- Design Constraints and Rules; 2 weeks
-- Speculation and the Hypothesis; 2 weeks
-- Instruction Sets for Strangers, an urban space project, 3 weeks
-- Final individual project: research, concept, design and execution, 8 weeks
+- 7 in 7
+- Ideas in Form
+- Instruction Sets for Strangers
+- Final individual project
 
 ### Critique, Presentation and Discussion
 
@@ -53,24 +53,23 @@ When presenting, students should explain:
 - Impact: what is the goal of your project, what impact do you think it will have, why is it important?  
 
 ### Writing and Research
-The ability to formulate and present a strong argument is essential to all creative work. Students will do a variety of writing, which may include automatic writing, reflection documents, blog posts, design briefs, and user scenarios. Students will also write a 4500 - 5000 word (5 - 6 page) paper, to outline the research and defend the concept of their final projects.
-
-All papers should be single spaced, with one inch margins / header / footer, 10 point type, and end noted in Chicago Turabian style.  Students will be required to make an appointment with the writing center after writing their rough draft to get feedback on the development of their argument and assistance with citing their sources.
+The ability to formulate and present a strong argument is essential to all creative work. Students will do a variety of writing, which may include automatic writing, reflection documents, blog posts, design briefs, and user scenarios.
 
 ### Reading and Discussion
 
-Personal Responses Students will post a short paragraph (~ 300 words) to their blog/website in response to assigned readings before each discussion class.
+Personal Responses: Students will post a short paragraph (~ 300 words) to their blog/website in response to assigned readings before each discussion class.
 
-Reading Moderation Students will sign up in groups of 2 - 3 to moderate discussion for at least one reading per semester. The goal of these discussions is not to summarize the reading, but rather to voice an opinion on how the text relates to areas of personal interest, current projects, and current events. Moderators will post a more in depth reading commentary (~ 600 words) before their given class that ends with questions for discussion. Presentations should focus on interaction and involve rest of the class with conversation or activities. Short exercises, games or visual presentations are encouraged.
+Reading Moderation: Students will sign up in groups of 2 - 3 to moderate discussion for at least one reading per semester. The goal of these discussions is not to summarize the reading, but rather to voice an opinion on how the text relates to areas of personal interest, current projects, and current events.
+
+Moderators will post a more in depth reading commentary (~ 600 words) before their given class that ends with questions for discussion. Presentations should focus on interaction and involve rest of the class with conversation or activities. Short exercises, games or visual presentations are encouraged.
 
 ### Required Readings
 
 - Vannevar Bush, [*As We May Think*](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), The Atlantic Monthly, July 1945
 - Whyte, *Social Life of Small Urban Spaces*, 1980, intro & chapter 1;
-- Wythe, Tactical Urbanism Vol 2, 2012, pages 1-7
 - Stephen Houde and Charles Hill, [*What Do Prototypes Prototype?*](https://uwdata.github.io/hcid520/readings/Houde-Prototypes.pdf), 1997
 - Maciej Cegłowski, [*Web Design: The First 100 Years*](http://idlewords.com/talks/web_design_first_100_years.htm), 2014
-- Sturken and Cartwright, *Practices of Looking, An Introduction to Visual Culture*, 2009, chapter 1, pages 9-16 and 26-36
+
 
 ## Personal Site, Class Slack, and Deliverables
 
@@ -81,50 +80,92 @@ Students will post all course work, including reading responses, writing assignm
 ### Class Slack
 
 This class will use a [Slack team](https://ms1-d.slack.com) to organize class communication in several ways.
-- Homework Channel: You will turn in your assignments by posting links **and only links** to this channel as soon as you post your work to your own site. This will make it easy for the class to find and see your work. **If you don't post a link here, your homework isn't turned in.**
 - Official Channel: This channel will class information, announcements, and resources. The instructor will be the primary poster in this channel, but students and groups leading in class discussion or workshops may also post here. You may also post questions here that are relevant to the whole class. You will be expected to follow this channel closely.
-- Open Discussion Channel: This channel will be use for public real-time chat outside of classroom hours.
-- Student Channels: Each student should create a channel for discussion of their projects. This channel will be used by the class to provide written feedback in connection with class crits.
+- Chatter Channel: This channel will be used for public real-time chat outside of classroom hours.
+
+
+### Final Paper
+Students will write a 1500 - 2500 word (3-5 page) paper, to outline the research and defend the concept of their final projects.
+
+Students will be required make an appointment with the writing center after writing their rough draft to get feedback on the development of their argument and assistance with citing their sources.
+
 
 ### Final Deliverables
-
 At the end of each project, you will turn in your project files and documentation as a single zipped document to a class folder on Google Drive. You should name your document following this template: `ms1-fall16-[lastName]-[assignmentName].zip`
 
 
 ## Schedule
 
 The following schedule provides a general outline of the structure of the class. **This calendar is likely to shift, always check due dates given in assignment descriptions.**
+**Warm Up**
+date | notes
+--- | ---
+M Aug 28 | Studio Introduction Presentations, DT Intro, MS1 Intro + Syllabus, Studio Introduction Workshop | A0 Presentation
 
-Week        | Session 1                                 | Session 2
----         | ---                                       | ---
-01 - 08/29  | Design Constraints, 1 of 3                | Design Constraints, 2 of 3
-Assigned    | Design Constraint / Rules / Chance project
-02 - 09/05  | **Labor Day**                             | Design Constraints, 3 of 3
-Assigned    | Speculation Project
-Assigned    | Vannevar Bush reading
-03 - 09/12  | Speculation, 1 of 4               | Speculation, 2 of 4
-04 - 09/19  | Speculation, 3 of 4               | Speculation, 4 of 4
-Assigned    | Instruction Sets Project
-Assigned    | Urban Ecologies Reading
-05 - 09/26  | Instruction Sets, 1 of 6; observe, map, plan prototype 1 (workshop, paper prototype) | Instruction Sets, 2 of 6; observe, map, plan prototype 1
-06 - 10/03  | **Rosh Hashanah**                 | Instruction Sets, 4 of 6; iterate and execute prototype 2 (workshop; on iteration)
-Assigned | Final Proj: Written Preliminary Concept  
-07 - 10/10  | Proj 3: Instruction Sets, 5 of 6; Instruction Sets final prototype TBD; Final Project: 2 minute project pitches | **Yom Kippur**
-08 - 10/17  | Proj 3: Instruction Sets, 6 of 6; in class review Instruction Sets final prototype | Final Project: ideation, domains & questions
-Assigned | Design Vision & Impact Reading |
-09 - 10/24 | **MIDTERM** presentations: final project concepts, prototyping ideas | **MIDTERM** presentations: final project concepts, prototyping ideas
-10 - 10/31  | Final Project, prototype 1 (concept) demo, in class workshop on prototyping | Final Project, prototype 1 (concept) demo, in class workshop on prototyping
-Assigned | Research Outline
-Assigned | Visual Culture Reading
-11 - 11/07 | Final Project proto 2 (aesthetics) | Final Project prototype 2 (aesthetics)
-Assigned | Research Paper Intro; Domains & Precedents Doc
-12 - 11/14 | Final Project proto 3 (engagement), documented user test | Final Project proto 3 (engagement), documented user test
-13 - 11/21 | TBD | **Thankgiving, class meets tuesday**
-14 - 11/28 | Individual meetings | Individual meetings
-15 - 12/05 | Final Project Proof of Concept prototype, mock presentations | Final Project Proof of Concept prototype, mock presentations
-16 - 12/12 | **Final Critiques** | **Final Critiques**
-17 - 12/19 | TBD | **Winter Break**
 
+**7 in 7**
+date | notes
+--- | ---
+W Aug 30 | Tips for Art Students, 7 in 7 Intro, 10 Minute Expert, Rules Workshop | &nbsp;
+|
+No Class | &nbsp; | &nbsp;
+W Sep 6 | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro | A1 Presentation, Reading 1
+
+
+**Ideas in Form**
+date | notes
+--- | ---
+M Sep 11 | Research Presentations, 1d Workshop | 1d, Research
+W Sep 13 | 2d Discussion | 2d
+|
+M Sep 18 | 3d Discussion | 3d
+No Class | &nbsp; | &nbsp;
+|
+M Sep 25 | 4d Discussion, Instruction Sets for Strangers Intro | 4d, Reading 2
+
+
+**Instruction Sets for Strangers**
+date | notes
+--- | ---
+W Sep 27 | Recon Discussion, Ideation Workshop | Recon
+|
+M Oct 2 | Intervention 1 Discussion | Intervention 1
+W Oct 4 | Intervention 2 Discussion | Intervention 2
+|
+M Oct 9 | Intervention 3 Discussion | Intervention 3
+W Oct 11 | Instruction Sets Presentations, Final Introduction | A3 Presentation
+|
+M Oct 16 | Midterm Crit | Domain Statement
+W Oct 18 | Midterm Crit | &nbsp;
+
+**Final Project**
+date | notes
+--- | ---
+M Oct 23 | Research Discussion | Broad Research
+W Oct 25 | Research Discussion | Deep Research
+|
+M Oct 30 | Intro to Prototyping, Bodystorming Workshop | R3
+W Nov 1 | Proto 1 Discussion | Proto 1
+|
+M Nov 6 | Proto 2 Discussion | Proto 2
+W Nov 8 | Proto 3 Discussion | Proto 3
+|
+M Nov 13 | User Testing Workshop | POC
+W Nov 15 | POC Discussion | POC User Tests
+|
+M Nov 20 | Discussion + Open Studio | Release Candidate 1, Reading 4
+No Class | Discussion + Open Studio, 1-on-1s | &nbsp;
+|
+M Nov 27 | Discussion + Open Studio, 1-on-1s | &nbsp;
+W Nov 29 | Discussion + Open Studio | Release Candidate 2
+|
+M Dec 4 | Discussion + Open Studio | &nbsp;
+W Dec 6 | Discussion + Open Studio | Release Candidate 3
+|
+M Dec 11 | Final Crit | &nbsp;
+W Dec 13 | Final Crit | &nbsp;
+|
+M Dec 18 | Site Reviews, Reflection | Final Site
 
 
 ## Major Assignments
@@ -133,9 +174,9 @@ Assigned | Research Paper Intro; Domains & Precedents Doc
 
 Define a set of rules or constraints that will guide your creative process for the following week. Execute a creative project every day for seven days based on these constraints.
 
-### Speculation: TBA
+### Ideas in Form
 
-Assignment details to be announced.
+Research an area of inquiry. Create a series of projects that investigate different aspects of that inquiry.
 
 ### Public Engagement: Instruction Sets for Strangers
 
@@ -201,7 +242,7 @@ GM  | Grade missing for an individual
 ### Grade of D
 Grades of D are not used in graduate level courses.
 
- #### Grade of W
+ ### Grade of W
 The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript. A grade of W may also be issued by an instructor to a graduate student (except at Parsons and Mannes) who has not completed course requirements nor arranged for an Incomplete. 
 
 ### Grade of Z
@@ -244,6 +285,9 @@ The use of electronic devices (phones, tablets, laptops, cameras, etc.) is permi
 The New School views “academic honesty and integrity” as the duty of every member of an academic community to claim authorship for his or her own work and only for that work, and to recognize the contributions of others accurately and completely. This obligation is fundamental to the integrity of intellectual debate, and creative and academic pursuits. Academic honesty and integrity includes accurate use of quotations, as well as appropriate and explicit citation of sources in instances of paraphrasing and describing ideas, or reporting on research findings or any aspect of the work of others (including that of faculty members and other students). Academic dishonesty results from infractions of this “accurate use”. The standards of academic honesty and integrity, and citation of sources, apply to all forms of academic work, including submissions of drafts of final papers or projects. All members of the University community are expected to conduct themselves in accord with the standards of academic honesty and integrity. Please see the complete policy in the Parsons Catalog.
 
 It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others.  Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, academic warning, disciplinary probation, suspension from the university, or dismissal from the university.
+
+**To Be Clear**
+All work you present or turn in for this class should be created solely by you, or **clearly** cited. This is true of in both group and solo projects. This includes quotes, images, and code.
 
 ### Student Disability Services (SDS)
 In keeping with the University’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately.  All conversations will be kept confidential.  Students requesting any accommodations will also need to meet with Jason Luchs in the Office of Student Disability Services, who will conduct an intake, and if appropriate, provide an academic accommodation notification letter to you to bring to me.  SDS assists students with disabilities in need of academic and programmatic accommodations as required by the Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Federal Rehabilitation Act of 1973. http://www.newschool.edu/studentservices/disability/.
