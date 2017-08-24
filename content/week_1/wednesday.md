@@ -1,5 +1,7 @@
 # Week 1, Wednesday August 31st
 
+We are the Robots - Kraftwerk
+
 ## Quick Assignment and Technology Review
 `3:50`
 - Did everyone get their site up and first project posted?
@@ -43,3 +45,5 @@ Work as a team to choose a topic to incorporate into your map. Do not spend more
 `6:00`
 - Post your rules at 6:30
 - Don't change your rules
+
+Eames - Design Q&A
