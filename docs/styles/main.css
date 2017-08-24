@@ -55,7 +55,7 @@ pre
 	border-radius: 4px;
 	overflow: hidden;
 	z-index: 1;
-	
+
 	margin-bottom: 1em;
 }
 
@@ -105,4 +105,14 @@ img:last-of-type { margin-bottom: 1em}
 
 p a + a {
 	margin-left: 2em;
+}
+
+.container{
+	margin-bottom:100px;
+}
+
+@media only screen and (max-width: 785px) {
+    ul {
+      padding-left: 20px;
+    }
 }

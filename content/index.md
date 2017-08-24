@@ -5,8 +5,8 @@
 | School of Art, Media and Technology
 | Justin Bakse
 | PGTE 5200 D, Fall 2017
-| Ms 3:50pm—6:30pm, Ws 3:50-6:30pm
-| 6 East 16th Street, Room D
+| M 3:50pm—6:30pm, W 3:50—6:30pm
+| 6 East 16th Street, Room D1202
 
 ### [Syllabus](#syllabus.html) • [Class Slack](#https://ms1-d.slack.com)
 
@@ -21,8 +21,8 @@
 
 ## Readings
 ##### [Reading 1 — As We May Think](#reading_1)
-##### [Reading 2 — Social Life of Small Urban Spaces](#reading_2)
-##### [Reading 3 — What do Prototypes Prototype](#reading_3)
+##### [Reading 2 — The Social Life of Small Urban Spaces](#reading_2)
+##### [Reading 3 — What do Prototypes Prototype?](#reading_3)
 ##### [Reading 4 — Web Design: The First 100 Years](#reading_4)
 
 
@@ -118,19 +118,24 @@ a[href^="#"]:not(.btn) { color: gray; text-decoration: none; }
     background-color: #EEE;
     color: #AAA !important;
 }
-.midterm-crit {
+.midterm-crit, .final-crit{
+    background-color: #EEE;
+    color: #000 !important;
+    font-weight: bold;
+}
+
+.midterm-crit table{
+    border-color: #D3D3D3;
+}
+<!-- .final-crit {
     background-color: #EEE;
     color: #F00 !important;
-}
-.final-crit {
-    background-color: #EEE;
-    color: #F00 !important;
-}
+} -->
 td:first-child {
-    width: 100px;
+    width: 100;
 }
 td:nth-child(3) {
-    width: 200px;
+    width: 200;
 
 }
 thead {
