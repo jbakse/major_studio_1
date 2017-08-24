@@ -1,4 +1,4 @@
-# Assignment 0 - Introductions
+# Assignment 0 — Studio Introduction
 
 ## Background
 MS1 is your introduction the MFA DT studio program. Your fellow classmates will be one of your most important resources this semester, and you will be one of theirs. It is vital that we get to know one another. Let's start at the beginning.
@@ -15,3 +15,4 @@ MS1 is your introduction the MFA DT studio program. Your fellow classmates will 
 ## Tips
 - This is your first project for MS1. Put some time in to prepare.
 - We will vote on which introduction is: clearest, most memorable, funniest, friendliest, most beautiful, most entertaining, least predictable, most efficient, best conceived, best executed.
+- Don't worry. If you are not sure what to do, just guess. If you have questions, just guess. If you do it wrong, you'll do it better.

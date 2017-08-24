@@ -6,12 +6,12 @@
 | Justin Bakse
 | PGTE 5200 D, Fall 2017
 | Ms 3:50pm—6:30pm, Ws 3:50-6:30pm
-| 6 East 16th Street, ROOM TBD
+| 6 East 16th Street, Room D
 
 ### [Syllabus](#syllabus.html) • [Class Slack](#https://ms1-d.slack.com)
 
 ## Assignments
-##### [Assignment 0 — Introduction](assignment_0)
+##### [Assignment 0 — Studio Introduction](assignment_studio_introduction)
 ##### [Assignment 1 — 7 in 7](#assignment_1)
 ##### [Assignment 2 — One Topic, Many Projects](#assignment_2)
 ##### [Assignment 3 — Instruction Sets for Strangers](#assignment_3)
@@ -34,7 +34,7 @@
 **Warm Up**
 date | notes
 --- | ---
-M Aug 28 | A0 Presentation, DT Intro, MS1 Intro, What We'll Learn Workshop | A0 Presentation
+M Aug 28 | Studio Introduction Presentations, DT Intro, MS1 Intro + Syllabus, Studio Introduction Workshop | A0 Presentation
 
 
 **7 in 7**
