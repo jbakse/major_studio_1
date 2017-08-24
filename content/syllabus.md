@@ -265,7 +265,8 @@ Parsons's attendance guidelines were developed to encourage student success in a
 
 While attendance is just one aspect of active participation, absence from a significant portion of class time may prevent the successful attainment of course objectives. A significant portion of class time is generally defined as the equivalent of three weeks, or 20%, of class time. Lateness or early departure from class may be recorded as one full absence. Students may be asked to withdraw from a course if habitual absenteeism or tardiness has a negative impact on the class environment.
 
-**To be clear:**
+**To Be Clear**
+
 - If you miss 3 classes your grade will most likely be reduced.
 - If you miss 6 classes you will most likely be asked to withdraw from class.
 - This is true even if you complete all assignments and class work on time.
@@ -287,6 +288,7 @@ The New School views “academic honesty and integrity” as the duty of every m
 It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others.  Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, academic warning, disciplinary probation, suspension from the university, or dismissal from the university.
 
 **To Be Clear**
+
 All work you present or turn in for this class should be created solely by you, or **clearly** cited. This is true of in both group and solo projects. This includes quotes, images, and code.
 
 ### Student Disability Services (SDS)
