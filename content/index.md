@@ -40,7 +40,7 @@ date | notes
 **7 in 7**
 date | notes
 --- | ---
-W Aug 30 | Tips for Art Students, 7 in 7 Intro, 10 Minute Expert, Rules Workshop | &nbsp;
+W Aug 30 | Tips for Art Students, 7 in 7 Intro, 10 Minute Expert, Rules Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
 |
 No Class | &nbsp; | &nbsp;
 W Sep 6 | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro | A1 Presentation, Reading 1
