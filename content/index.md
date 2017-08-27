@@ -34,7 +34,7 @@
 **Warm Up**
 date | notes
 --- | ---
-M Aug 28 | Studio Introduction Presentations, DT Intro, MS1 Intro + Syllabus, Studio Introduction Workshop | A0 Presentation
+[M Aug 28](week_1/monday.html) | Studio Introduction Presentations, DT Intro, MS1 Intro + Syllabus, Studio Introduction Workshop | A0 Presentation
 
 
 **7 in 7**
