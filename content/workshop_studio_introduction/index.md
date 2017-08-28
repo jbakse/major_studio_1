@@ -1,23 +1,44 @@
 # Workshop — Studio Introduction
+*Total Time: 1 hour*
+
+### Overview
+Students **reflect** on the creative process used to create their Studio Introduction Project, **brainstorm** a list methods and techniques used by designers, and **organize** and **define** them.
+
+### Prerequisites
+Students should have completed the Studio Introduction assignment. Pretty much any other project assignment would also work.
+
+### Materials
+Each student should have paper and a pen. There is a simple worksheet
+
+## Agenda
 
 ### Instructor
+*5 minutes*
 Organize class into six groups.
 
-### Individual, 3 minutes
+### Individual
+*3 minutes*
+
 List things you did while working on the Studio Introduction assignment.
 
-### Groups, 5 minutes
+### Groups
+*5 minutes*
+
 Compare lists, generate two new lists.
 - Things more than one of you did.
 - Things only one of you did.
 
-### Class, 5 minutes
+### Class
+*5 minutes*
+
 Present lists
 
 ### Instructor
-Present the following categories. Introduce the term [Design Methods, Design Tools, Design Activities, Design Tasks, Design Tools, Design Verbs (kind of like design verbs, its a good fit, implies that these should be verbs, and is likely to be understood as a workshop term, rather than a design world term)]
+*5 minutes*
 
-Assign one category to each group.
+Introduce the workshop term *Design Verb* and the categories below.
+
+*Design Verb* isn't a common industry term, but a synthetic one for use in this workshop that can encompass any method, technique, or activity used by a designer in the course of their practice.
 
 - Generating Ideas
 - Researching Ideas
@@ -26,21 +47,31 @@ Assign one category to each group.
 - Communicating Ideas
 - Improving Ideas
 
-### Groups, 3 minutes
-List as many [] that fall within your category as you can.
+Assign one category to each group.
 
-### Groups, 7 minutes
-Create a definition for each []
-[Worksheet?]
+### Groups
+*3 minutes*
 
-### Groups, 10 minutes
-Pinup
+List as many *Design Verbs* that fall within your category as you can.
 
-### Class, 10 minutes
+### Groups
+*7 minutes*
+
+Create a definition for each of your *Design Verbs*.
+
+
+### Groups
+*10 minutes*
+
+Groups pin up their worksheets, list their *Design Verbs*, and define the most important ones.
+
+### Class
+*10 minutes*
+
 Discuss
 Leading Questions:
-- Which [] appear in multiple categories?
-- Are any [] redundant?
-- Are any [] in the wrong category?
-- Are any [] missing?
+- Which *Design Verbs* appear in multiple categories?
+- Are any *Design Verbs* redundant?
+- Are any *Design Verbs* in the wrong category?
+- Are any *Design Verbs* missing?
 - Are any categories missing?

@@ -93,6 +93,8 @@ Students will be required make an appointment with the writing center after writ
 ### Final Deliverables
 At the end of each project, you will turn in your project files and documentation as a single zipped document to a class folder on Google Drive. You should name your document following this template: `ms1-fall16-[lastName]-[assignmentName].zip`
 
+### Slack
+Slack is an important resource for this class. Students should check it at least daily for announcements.
 
 ## Schedule
 
@@ -260,6 +262,11 @@ Students are responsible for all assignments, even if they are absent.  Late ass
 ### Participation
 Class participation is an essential part of class and includes: keeping up with reading, assignments, projects, contributing meaningfully to class discussions, active participation in group work, and coming to class regularly and on time.
 
+### Making Center
+
+The Making Center is a constellation of shops, labs, and open workspaces that are situated across the New School to help students express their ideas in a variety of materials and methods. We have resources to help support woodworking, metalworking, ceramics and pottery work, photography and film, textiles, printmaking, 3D printing, manual and CNC machining, and more. A staff of technicians and student workers provide expertise and maintain the different shops and labs. Safety is a primary concern, so each area has policies for access, training, and etiquette that students and faculty should be familiar with. Many areas require specific orientations or trainings before access is granted. Detailed information about the resources available, as well as schedules, trainings, and policies can be found at http://resources.parsons.edu.
+
+
 ### Attendance
 Parsons's attendance guidelines were developed to encourage student success in all aspects of their academic programs. Full participation is essential to the successful completion of coursework and enhances the quality of the educational experience for all, particularly in courses where group work is integral; thus, Parsons promotes high levels of attendance. Students are expected to attend classes regularly and promptly and in compliance with the standards stated in this course syllabus.
 
@@ -273,8 +280,6 @@ While attendance is just one aspect of active participation, absence from a sign
 
 Whether the course is a lecture, seminar or studio, faculty will assess each student’s performance against all of the assessment criteria in determining the student’s final grade.
 
-### Slack
-Slack is an important resource for this class. Students should check it at least daily for announcements.
 
 ### Delays
 In rare instances, I may be delayed arriving to class.  If I have not arrived by the time class is scheduled to start, you must wait a minimum of thirty minutes for my arrival.  In the event that I will miss class entirely, a message will be posted on Slack and sent by email indicating your assignment for the next class meeting.
@@ -283,9 +288,16 @@ In rare instances, I may be delayed arriving to class.  If I have not arrived by
 The use of electronic devices (phones, tablets, laptops, cameras, etc.) is permitted when the device is being used in relation to the course's work and only when indicated by the instructor. All other uses are prohibited in the classroom and devices should be turned off before class starts.
 
 ### Academic Honesty and Integrity
+Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, academic warning, disciplinary probation, suspension from the university, or dismissal from the university.
+
+Students are responsible for understanding the University’s policy on academic honesty and integrity and must make use of proper citations of sources for writing papers, creating, presenting, and
+performing their work, taking examinations, and doing research. It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others. The full text of the policy, including adjudication procedures, is found at http://www.newschool.edu/policies/# Resources regarding what plagiarism is and how to avoid it can be found on the Learning Center’s website:
+
+http://www.newschool.edu/university-learning-center/student-resources/
+
+
 The New School views “academic honesty and integrity” as the duty of every member of an academic community to claim authorship for his or her own work and only for that work, and to recognize the contributions of others accurately and completely. This obligation is fundamental to the integrity of intellectual debate, and creative and academic pursuits. Academic honesty and integrity includes accurate use of quotations, as well as appropriate and explicit citation of sources in instances of paraphrasing and describing ideas, or reporting on research findings or any aspect of the work of others (including that of faculty members and other students). Academic dishonesty results from infractions of this “accurate use”. The standards of academic honesty and integrity, and citation of sources, apply to all forms of academic work, including submissions of drafts of final papers or projects. All members of the University community are expected to conduct themselves in accord with the standards of academic honesty and integrity. Please see the complete policy in the Parsons Catalog.
 
-It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others.  Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, academic warning, disciplinary probation, suspension from the university, or dismissal from the university.
 
 **To Be Clear**
 
