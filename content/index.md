@@ -12,7 +12,7 @@
 
 ## Assignments
 ##### [Assignment 0 — Studio Introduction](assignment_studio_introduction)
-##### [Assignment 1 — 7 in 7](#assignment_1)
+##### [Assignment 1 — 7 in 7](assignment_7_in_7)
 ##### [Assignment 2 — One Topic, Many Projects](#assignment_2)
 ##### [Assignment 3 — Instruction Sets for Strangers](#assignment_3)
 ##### [Assignment 4A — Final Project](#assignment_4)
@@ -40,10 +40,10 @@ date | notes
 **7 in 7**
 date | notes
 --- | ---
-W Aug 30 | Tips for Art Students, 7 in 7 Intro, 10 Minute Expert, Rules Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
+[W Aug 30](week_1/wednesday.html) | Tips for Art Students, 7 in 7 Intro, 10 Minute Expert, Rules Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
 |
 No Class | &nbsp; | &nbsp;
-W Sep 6 | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro | A1 Presentation, Reading 1
+W Sep 6 | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro, Reading 1 Intro | A1 Presentation
 
 
 **Ideas in Form**
@@ -52,7 +52,7 @@ date | notes
 M Sep 11 | Research Presentations, 1d Workshop | 1d, Research
 W Sep 13 | 2d Discussion | 2d
 |
-M Sep 18 | 3d Discussion | 3d
+M Sep 18 | 3d Discussion | 3d, Reading 1
 No Class | &nbsp; | &nbsp;
 |
 M Sep 25 | 4d Discussion, Instruction Sets for Strangers Intro | 4d, Reading 2
