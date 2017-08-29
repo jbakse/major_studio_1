@@ -5,6 +5,8 @@
 
 Arrange seats in semi-circle facing whiteboard.
 
+[Frank Zappa, "I'm The Slime"](https://www.youtube.com/watch?v=RWoxUvWHtB4&feature=youtu.be)
+
 [Brian Eno, "Baby's on Fire"](https://www.youtube.com/watch?v=nItuhuY1U04)
 
 [Die Antwoord, "Baby's on Fire](https://www.youtube.com/watch?v=HcXNPI-IPPM)
@@ -15,14 +17,39 @@ Arrange seats in semi-circle facing whiteboard.
 
 — Brian Eno, Generative Music: A talk delivered in San Francisco, June 8, 1996
 
+## Warm Up
+*3:50—4:05*
 
-## Charles and Ray Eames + Design Q & A
-*3:50—4:20*
-Charles and Ray Eames
-Selected Works
-[Charles and Ray Eames, "Design Q + A"](http://www.eamesoffice.com/the-work/design-q-a/), [Video](https://www.youtube.com/watch?v=bmgxDCujTUw), [Text](http://www.eamesoffice.com/the-work/design-q-a-text/)
+- What is your definition of Design?
+- Is Design a method of general expression?
+- Does Design imply the idea of products that are necessarily useful?
+- Can the computer substitute for the Designer?
 
-Class Discussion
+## Design Q & A + Charles and Ray Eames
+*4:05—4:20*
+
+### Who Charles and Ray Are
+
+> Charles Ormond Eames, Jr (1907–1978) and Bernice Alexandra "Ray" Eames (1912–1988) were husband and wife American designers who made significant historical contributions to the development of modern architecture and furniture. Among their most well-known designs is the Eames Lounge Chair. They also worked in the fields of industrial and graphic design, fine art and film.
+
+— [Wikipedia: Charles and Ray Eames](https://en.wikipedia.org/wiki/Charles_and_Ray_Eames)
+
+
+### DCM - Dining Chair Metal
+![DCM](http://www.eamesoffice.com/wp-content/uploads/2014/02/CH_DMp006-646x500.jpg)
+
+### Powers of Ten
+![Powers of Ten](http://t4mam46q1tq2m4tjp1s8p4j1.wpengine.netdna-cdn.com/wp-content/uploads/2013/10/pow.png)
+
+
+
+### Design Q&A
+![Design Q&A Still](http://www.eamesoffice.com/wp-content/uploads/2014/02/FF_QAnDb30-655x500.jpg)
+
+
+[Charles and Ray Eames, "Design Q + A"](http://www.eamesoffice.com/the-work/design-q-a/) [Video](https://www.youtube.com/watch?v=bmgxDCujTUw) [Text](http://www.eamesoffice.com/the-work/design-q-a-text/)
+[For Print](designqa.html)
+
 
 
 ## Self-imposed Constraints
@@ -42,14 +69,19 @@ Self-imposed constraints force creative solutions.
 
 [Brian Eno, "Oblique Strategies"](http://www.oblicard.com/)
 
+[Lars von Trier and Thomas Vinterberg, "Dogme 95"](https://en.wikipedia.org/wiki/Dogme_95)
+
+[Roger Price, Droodles](https://en.wikipedia.org/wiki/Droodles)
+
+
 ## Break
 *4:40-4:50*
 
 ## 7-in-7
 *4:50-5:10*
+Introduction and discussion of [7-in-7 assignment](../assignment_7_in_7).
 
-
-## Constraints Workshop
+## Constraints + Framing Workshop
 *5:10-6:30*
 
 ### Instructor
@@ -58,124 +90,53 @@ Divide the class into pairs.
 ### Qualities of Productive Constraints
 *10 minutes*
 
-As a class brainstorm qualities of productive constraints. For example: *Encourages Variety*
+As a class, brainstorm qualities of productive constraints.
+
+For example: *Encourages Variety*
 
 
-### Qualities of Artwork
+### Attributes of Artwork
 *10 minutes*
 
-As a class, brainstorm qualities of artworks. For example: *Size*
+As a class, brainstorm attributes of artworks. These are things you might mention when describing an artwork to someone.
+
+For example: *Size*
 
 ### Sources of Urgency
 *10 minutes*
 
-As a class, brainstorm sources of urgency or chance. These should be easily accessible, but unpredictable outside forces. For example: *Newspaper Headlines*
+As a class, brainstorm sources of urgency or chance. These should be easily accessible, but unpredictable outside forces.
+
+For example: *Newspaper Headlines*
 
 ### Draft, Round 1
 *5 minutes*
-Write 2 constraints, these **are not** the constraints that you will use for 7-in-7. Each constraint should relate to an quality on the "Productive Constraints" list and a quality on the "Artwork" list.
+
+Write 2 constraints, these **are not** the constraints that you will use for 7-in-7.
+
+Each constraint should relate to two items from different lists generated in the previous steps.
 
 ### Swap
 *5 minutes*
+
 Read and explain your constraints to your partner. Edit your constraint if it is unclear. Trade your first constraint with your partners first constraint.
 
 ### Share
 *10 minutes*
+
 Read your pair of constraints to the class.
 
 ### Draft, Round 2
 *10 minutes*
+
 Write 2-3 constraints, these **will be** the constraints that you will use for 7-in-7.
 
 ### Edit
 *10 minutes*
+
 Partners review and edit their constraints.
 
 ### Share
 *10 minutes*
+
 Read your final constraints to the class.
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Thoughts
-- The projects may be all in the same medium, or utilize different media.
-- The more experimental in nature, the better.
-- There is no “wrong” way to do this project (other than break the two rules).
-
-
-### Guiding Questions:
-- When is a project fully complete? How do you know you are “finished” with a project?
-- How does the framing of a project, its context, scope, and parameters, determine the
-content created? What is the relationship between concept and execution?
-- Upon reflection is there anything that ties your projects together? Can you see an
-emergent theme in your work?
-- After completing your projects what do you think could have been improved? If you were
-to do another iteration of the project what would you change or refine?
-
-
-
-
-
-
-Framing
-    What is important?
-    What are the goals?
-    What is success?
-
-
-What is a constraint?
-Where do constraints come from?
-
-
-John mcfee
-
-Lego Challenge
-
-Do some constrained sketches.
-
-Drowning wictch ariving too late
-
-Color Walks
-
-
-Black Out poems
-
-
-Yoko Ono
-
-Oblique Strategies - Brian Eno
-
-
-[Dogme 95](https://en.wikipedia.org/wiki/Dogme_95)
-1. Shooting must be done on location. Props and sets must not be brought in (if a particular prop is necessary for the story, a location must be chosen where this prop is to be found).
-2. The sound must never be produced apart from the images or vice versa. (Music must not be used unless it occurs where the scene is being shot.)
-3. The camera must be hand-held. Any movement or immobility attainable in the hand is permitted.
-4. The film must be in colour. Special lighting is not acceptable. (If there is too little light for exposure the scene must be cut or a single lamp be attached to the camera).
-5. Optical work and filters are forbidden.
-6. The film must not contain superficial action. (Murders, weapons, etc. must not occur.)
-7. Temporal and geographical alienation are forbidden. (That is to say that the film takes place here and now).
-8. Genre movies are not acceptable.
-9. The film format must be Academy 35 mm.
-10. The director must not be credited.
-
-
-jigsaw
-
-5 obstructions
-
-list features of art
-    size, medium, material, subject matter
-list contstraints
-    price, time,
-
-How can constraints lead to success? What is success?
