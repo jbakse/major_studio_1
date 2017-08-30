@@ -43,6 +43,9 @@ Review the class [syllabus](../syllabus.html).
 
 In class workshop on the methods and techniques that designers use to create their work.
 
+[Studio Introduction Workshop](../workshop_studio_introduction)
+
+
 # Meta Assignment: Get Ready for MS1
 
 ### Set up your Personal Website

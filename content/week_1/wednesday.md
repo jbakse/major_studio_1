@@ -20,6 +20,9 @@ Arrange seats in semi-circle facing whiteboard.
 ## Warm Up
 *3:50—4:05*
 
+
+In *exactly* 10 words.
+
 - What is your definition of Design?
 - Is Design a method of general expression?
 - Does Design imply the idea of products that are necessarily useful?
@@ -71,7 +74,16 @@ Self-imposed constraints force creative solutions.
 
 [Lars von Trier and Thomas Vinterberg, "Dogme 95"](https://en.wikipedia.org/wiki/Dogme_95)
 
-[Roger Price, Droodles](https://en.wikipedia.org/wiki/Droodles)
+[Roger Price, "Droodles"](https://en.wikipedia.org/wiki/Droodles)
+
+## Housekeeping
+
+Did you:
+- Comment on in the "thread thread" on slack/offical?
+- Launch your website?
+- Post your Studio Introduction link, name, and photo to slack?
+- Post your link to the [Assignment Matrix](https://docs.google.com/a/newschool.edu/spreadsheets/d/1PUGHF2wfe7VnJfYr5eYh9nNO6ekzHLHUrzS6PIz_WQ4/edit?usp=sharing)?
+- Reread the assignment when you thought you were done, to make sure you did all the right things?
 
 
 ## Break
@@ -88,7 +100,7 @@ Introduction and discussion of [7-in-7 assignment](../assignment_7_in_7).
 Divide the class into pairs.
 
 ### Qualities of Productive Constraints
-*10 minutes*
+*Class, 10 minutes*
 
 As a class, brainstorm qualities of productive constraints.
 
@@ -96,47 +108,47 @@ For example: *Encourages Variety*
 
 
 ### Attributes of Artwork
-*10 minutes*
+*Class, 10 minutes*
 
 As a class, brainstorm attributes of artworks. These are things you might mention when describing an artwork to someone.
 
 For example: *Size*
 
 ### Sources of Urgency
-*10 minutes*
+*Class, 10 minutes*
 
 As a class, brainstorm sources of urgency or chance. These should be easily accessible, but unpredictable outside forces.
 
 For example: *Newspaper Headlines*
 
 ### Draft, Round 1
-*5 minutes*
+*Individual, 5 minutes*
 
 Write 2 constraints, these **are not** the constraints that you will use for 7-in-7.
 
 Each constraint should relate to two items from different lists generated in the previous steps.
 
 ### Swap
-*5 minutes*
+*Groups, 5 minutes*
 
 Read and explain your constraints to your partner. Edit your constraint if it is unclear. Trade your first constraint with your partners first constraint.
 
 ### Share
-*10 minutes*
+*Class, 10 minutes*
 
 Read your pair of constraints to the class.
 
 ### Draft, Round 2
-*10 minutes*
+*Individual, 10 minutes*
 
 Write 2-3 constraints, these **will be** the constraints that you will use for 7-in-7.
 
 ### Edit
-*10 minutes*
+*Groups, 10 minutes*
 
 Partners review and edit their constraints.
 
 ### Share
-*10 minutes*
+*Class, 10 minutes*
 
 Read your final constraints to the class.

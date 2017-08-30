@@ -34,13 +34,14 @@
 **Warm Up**
 date | notes
 --- | ---
+**date** | **agenda** | **due**
 [M Aug 28](week_1/monday.html) | Studio Introduction Presentations, DT Intro, MS1 Intro + Syllabus, Studio Introduction Workshop | A0 Presentation
 
 
 **7 in 7**
 date | notes
 --- | ---
-[W Aug 30](week_1/wednesday.html) | Constraints Intro, 7 in 7 Intro, Framing, Constraints Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
+[W Aug 30](week_1/wednesday.html) | Design Q&A, Constraints Intro, 7 in 7 Intro, Constraints + Framing Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
 |
 No Class | &nbsp; | &nbsp;
 W Sep 6 | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro, Reading 1 Intro | A1 Presentation
