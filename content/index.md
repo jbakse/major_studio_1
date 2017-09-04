@@ -8,12 +8,12 @@
 | M 3:50pm—6:30pm, W 3:50—6:30pm
 | 6 East 16th Street, Room D1202
 
-### [Syllabus](syllabus.html) • [Class Slack](#https://ms1-d.slack.com)
+### [Syllabus](syllabus.html) • [Class Slack](https://ms1-d.slack.com) • [Assignment Matrix](https://docs.google.com/spreadsheets/d/1PUGHF2wfe7VnJfYr5eYh9nNO6ekzHLHUrzS6PIz_WQ4/edit#gid=0)
 
 ## Assignments
 ##### [Assignment 0 — Studio Introduction](assignment_studio_introduction)
 ##### [Assignment 1 — 7 in 7](assignment_7_in_7)
-##### [Assignment 2 — One Topic, Many Projects](#assignment_2)
+##### [Assignment 2 — Ideas In Form](#assignment_2)
 ##### [Assignment 3 — Instruction Sets for Strangers](#assignment_3)
 ##### [Assignment 4A — Final Project](#assignment_4)
 ##### [Assignment 4B — Final Paper](#assignment_5)
