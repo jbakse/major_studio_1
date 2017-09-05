@@ -2,7 +2,7 @@
 
 Experiment with how research and exploration of a given domain can be pursued through project based responses in a variety of media.
 
-- Choose a topic of personal interest to research.
+- Research a topic of personal interest.
 - Create a series of projects based on your research.
 - Document your process on your class website.
 
@@ -13,18 +13,24 @@ Choose a topic of personal interest to research.
 
 ### Broad Research — 10 Minute Expert
 - Divide your topic into 5 to 8 aspects.
-- Find 2 to 3 high-quality web resources related to each aspect.
+- Find 2 to 3 high-quality web resources (articles, websites, videos) related to each aspect.
 - Write a 1 sentence overview describing value of each resource.
-- List your links and descriptions on your project page.
-- You should end up with at least 12 links.
+- Add an organized directory of links to your project page.
+- You should include at least 12 web resources.
 
-At this point, you may wish to reframe your research topic.
+At this point, you may wish to *reframe* or *narrow* your research topic, but don't *change* it.
 
 ### Secondary Research
+- Explore the physical and online New School libraries.
 - Find (and study) 2 **secondary sources**.
 - Find (and study) 2 **primary sources**.
 - For each of these write a ~100 word summary focusing on key information related to your research topic.
-- Add these sources and your summaries to your project page.
+- Add an annotated bibliography listing your sources and summaries to your project page.
+- Use the [Chicago](https://writing.wisc.edu/Handbook/DocChicago.html) style for your individual citations.
+
+
+At this point, you may wish to *reframe* or *narrow* your research topic, but don't *change* it.
+
 
 ### Primary Research
 - Conduct 1 **primary research** activity.
