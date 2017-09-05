@@ -44,19 +44,19 @@ date | notes
 [W Aug 30](week_1/wednesday.html) | Design Q&A, Constraints Intro, 7 in 7 Intro, Constraints + Framing Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
 |
 No Class | &nbsp; | &nbsp;
-W Sep 6 | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro, Reading 1 Intro | A1 Presentation
+W Sep 6 | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro, Reading 1 Intro | A1 Discussion
 
 
 **Ideas in Form**
 date | notes
 --- | ---
-M Sep 11 | Research Presentations, 1d Workshop | 1d, Research
+M Sep 11 | Research Presentations, 1d Workshop | A2 Research
 W Sep 13 | 2d Discussion | 2d
 |
 M Sep 18 | 3d Discussion | 3d, Reading 1
 No Class | &nbsp; | &nbsp;
 |
-M Sep 25 | 4d Discussion, Instruction Sets for Strangers Intro | 4d, Reading 2
+M Sep 25 | 4d Discussion, Instruction Sets for Strangers Intro | Interaction, Reading 2
 
 
 **Instruction Sets for Strangers**
