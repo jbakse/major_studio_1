@@ -13,7 +13,7 @@
 ## Assignments
 ##### [Assignment 0 — Studio Introduction](assignment_studio_introduction)
 ##### [Assignment 1 — 7 in 7](assignment_7_in_7)
-##### [Assignment 2 — Ideas In Form](#assignment_2)
+##### [Assignment 2 — Ideas In Form](assignment_ideas_in_form)
 ##### [Assignment 3 — Instruction Sets for Strangers](#assignment_3)
 ##### [Assignment 4A — Final Project](#assignment_4)
 ##### [Assignment 4B — Final Paper](#assignment_5)
@@ -44,7 +44,7 @@ date | notes
 [W Aug 30](week_1/wednesday.html) | Design Q&A, Constraints Intro, 7 in 7 Intro, Constraints + Framing Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
 |
 No Class | &nbsp; | &nbsp;
-W Sep 6 | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro, Reading 1 Intro | A1 Discussion
+[W Sep 6](week_2/wednesday.html) | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro, Reading 1 Intro | A1 Discussion
 
 
 **Ideas in Form**
