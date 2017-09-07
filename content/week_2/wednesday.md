@@ -235,6 +235,8 @@ Don't put any text on your slides you don't expect us to read. Make sure you giv
 ### 1. Hook 'em
 Before you get to the primary point, give us a reason to be interested.
 
+A personal, relatable anecdote or a specific, thought-provoking question is often an effective opener.
+
 ### 2. Tell 'em What You'll Tell 'em
 Briefly tell us what your presentation is about, and what we will know at the end. This helps us organize the information in our heads as you deliver it. For this presentation you might do this using the research statement template. In a presentation about your project you might show your finished project first.
 
