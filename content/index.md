@@ -50,7 +50,7 @@ No Class | &nbsp; | &nbsp;
 **Ideas in Form**
 date | notes
 --- | ---
-M Sep 11 | Research Presentations, 1d Workshop | A2 Research
+[M Sep 11](week_3/monday.html) | Research Presentations, 1d Workshop | A2 Research
 W Sep 13 | 2d Discussion | 2d
 |
 M Sep 18 | 3d Discussion | 3d, Reading 1

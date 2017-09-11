@@ -49,6 +49,7 @@ We will consider the following when discussing your presentation:
 *Due Wednesday, September 13*
 
 - Create a 2D project-based response to your area of research.
+- This response should be pinned up in the classroom before the start of class.
 - Document your project on your project page.
 
 ## Part 3-3D
