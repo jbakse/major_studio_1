@@ -7,6 +7,14 @@ Arrange seats for slide presentations.
 
 ## Rubric Discussion
 
+![Rubric](rubric.png)
+
+<style>
+img {
+    border: 10px solid #CCC;
+}
+</style>
+
 ## Ideas in Form Research Presentations
 
 Presenter   | Time
