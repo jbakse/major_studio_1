@@ -1,4 +1,4 @@
-# Week 2 Monday
+# Week 2 Wednesday
 
 Crit style worked well.
 
