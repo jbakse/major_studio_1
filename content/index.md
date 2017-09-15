@@ -53,7 +53,7 @@ date | notes
 [M Sep 11](week_3/monday.html) | Research Presentations, 1d Workshop | A2 Research
 [W Sep 13](week_3/wednesday.html) | 2d Discussion | 2d
 |
-M Sep 18 | 3d Discussion | 3d, Reading 1
+[M Sep 18](week_4/monday.html) | 3d Discussion, Reading Intro | 3d
 No Class | &nbsp; | &nbsp;
 |
 M Sep 25 | 4d Discussion, Instruction Sets for Strangers Intro | Interaction, Reading 2
