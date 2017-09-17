@@ -73,3 +73,9 @@ https://archive.org/details/SmallUrbanSpaces
 
 ## Website Discussion
 *5:40—6:30*
+
+best writing - content
+best writing - style
+best photography 
+best structure
+best looking
