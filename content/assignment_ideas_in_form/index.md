@@ -1,4 +1,4 @@
-# Assignment 2 - Ideas in Form
+# Assignment 2 — Ideas in Form
 
 Explore the relationship between research and making.
 

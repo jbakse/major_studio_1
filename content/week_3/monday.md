@@ -1,4 +1,4 @@
-# Week 3 - Wednesday
+# Week 3 - Monday
 
 ## Preamble
 *3:30—3:50*

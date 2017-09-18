@@ -1,4 +1,4 @@
-# Week 3 - Wednesday
+# Week 3 — Wednesday
 
 ## Preamble
 *3:30—3:50*
@@ -17,19 +17,19 @@ Micheal Schober, Parson's Vice Provost for Research, will join us to discuss the
 *4:30-5:00*
 
 
-**Group 1**  Jin + George + Jason  
+**Group 1**   Jin + George + Jason  
     
     Choose two works that you think are interesting. Describe them in detail. Describe only what you can see. Avoid discussing intent or effect.
 
-**Group 2**  Yasong + Leah + Jackie + Yujie  
+**Group 2**   Yasong + Leah + Jackie + Yujie  
     
     Choose two projects you think did the "right thing". What did they do? Did it work out?
 
-**Group 3**  Nicole + Ruoshui + Wen-Chi + Nathan  
+**Group 3**   Nicole + Ruoshui + Wen-Chi + Nathan  
     
     Choose two projects that are outliers in some quality (e.g. size, purpose, approach, media, aesthetic). For each, describe what the artist did differently, and what the effect of that choice is.
 
-**Group 4**  Carla + Ting + Pratheek + Min  
+**Group 4**   Carla + Ting + Pratheek + Min  
     
     Choose two works that you feel have different purposes. What is the purpose of each work? What decisions has the artist made to support that purpose?
 
@@ -119,7 +119,7 @@ Brainstorm design purposes.
 
 - Share your best idea
 - Share your worst idea
-- Share an idea that is ridiculous, impossible, or otherwise "wrong".
+- Share an idea that is ridiculous, impossible, or otherwise “wrong”.
 
 
 
