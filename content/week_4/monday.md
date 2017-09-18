@@ -66,16 +66,41 @@ For the last phase, you will make an interactive study to further your understan
 
 You have one week for this phase. This is the longest amount of time that you have had for an assignment so far. **Your greatest peril is trying to do something too complicated.** Your focus should not be solving a problem, but rather understanding it. 
 
+
+
 ## Reading Introduction: The Social Life of Small Urban Spaces
 *5:30—5:40*
 
-https://archive.org/details/SmallUrbanSpaces
+[William H. Whyte](https://en.wikipedia.org/wiki/William_H._Whyte)
+
+[Video on archive.org](https://archive.org/details/SmallUrbanSpaces)
+
+Text available on Slack.
+
+Watch before Monday's class.
 
 ## Website Discussion
 *5:40—6:30*
 
-best writing - content
-best writing - style
-best photography 
-best structure
-best looking
+- best structure
+- best writing - content
+- best writing - style
+- best photography/images
+- best looking
+
+
+## Website Pair Feedback
+
+Meet twice to discuss the structure, writing, photography, and design of each other's sites.
+
+**First meeting:** Identify opportunities for improvement.  
+**Second meeting:** Review changes, and discuss impact.
+
+
+- Minhye + Nicole
+- George + Ruoshui
+- Nathan + Yasong
+- Carla + Wei Chung
+- Jin + Ting Fang
+- Pratheek + Yujie
+- Yongqing + Leah + Wen Chi
