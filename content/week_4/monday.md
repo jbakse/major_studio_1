@@ -1,4 +1,4 @@
-# Week 4 - Wednesday
+# Week 4 - Monday
 
 ## Preamble
 *3:30—3:50*
@@ -24,7 +24,7 @@ Choose two projects that are outliers in some quality (e.g. size, purpose, appro
 
 **Group 4** Nicole + Leah + Jason + Min
     
-Decide what you think the primary purpose of each piece on display is. State each purpose in 10 words or less.
+Decide what you think is the primary purpose of each piece on display. State each purpose in 10 words or less.
 
 **Open Discussion**
 
@@ -35,16 +35,16 @@ Decide what you think the primary purpose of each piece on display is. State eac
 ## Break
 *4:50—5:00*
 
-## Why are we Working so Quickly?
+## Why Are We Working So Quickly?
 *5:00—5:15*
 
 1: We have a lot to do, we need to move quickly. 
 
 2: We aren't.
 
-If you think of the work we have been making as projects, we are moving very quickly. Today, three weeks in, you have each completed 10 projects in this class alone. A few hours a day, for two or three days is rarely enough time to to even research and conceptualize a project, let alone make it.
+If you think of the work we have been making as projects, we are moving very quickly. Today, three weeks in, you have each completed 10 projects in this class alone. A few hours a day, for two or three days is rarely enough time to even research and conceptualize a project, let alone make it.
 
-But we are not making projects. We are making sketches and studies. We are exploring ideas though making. To often we begin creative projects by deciding what to make. It is better to take some time to study our problem, consider our purpose, and explore our options first. As designers, we understand our work best when we combine research with making. We read, sketch, observe, prototype, interview, study, and draw. We want to take the time to become experts on our project before we rush to decide what to make. 
+But we are not making projects. We are making sketches and studies. We are exploring ideas though making. Too often we begin creative projects by deciding what to make. It is better to take some time to study our problem, consider our purpose, and explore our options first. As designers, we understand our work best when we combine research with making. We read, sketch, observe, prototype, interview, study, and draw. We want to take the time to become experts on our project before we rush to decide what to make. 
   
 It feels like you are moving very quickly, but you are, in a way, *learning to slow down*. 
 
@@ -64,19 +64,44 @@ For the last phase, you will make an interactive study to further your understan
 - It has to work.
 - It can be as simple as you like.
 
-You have one week for this phase. This is the longest amount of time that you have had for an assignment so far. **Your greatest peril is trying to do something to complicated.** Your focus should not be solving a problem, but understanding it. 
+You have one week for this phase. This is the longest amount of time that you have had for an assignment so far. **Your greatest peril is trying to do something too complicated.** Your focus should not be solving a problem, but rather understanding it. 
+
+
 
 ## Reading Introduction: The Social Life of Small Urban Spaces
 *5:30—5:40*
 
-https://archive.org/details/SmallUrbanSpaces
+[William H. Whyte](https://en.wikipedia.org/wiki/William_H._Whyte)
+
+[Video on archive.org](https://archive.org/details/SmallUrbanSpaces)
+
+Text available on Slack.
+
+Watch before Monday's class.
 
 ## Website Discussion
 *5:40—6:30*
 
-best structure
-best navigation
-best writing - content
-best writing - style
-best photography/images
-best looking
+
+- best structure
+- best writing - content
+- best writing - style
+- best photography/images
+- best looking
+
+
+## Website Pair Feedback
+
+Meet twice to discuss the structure, writing, photography, and design of each other's sites.
+
+**First meeting:** Identify opportunities for improvement.  
+**Second meeting:** Review changes, and discuss impact.
+
+
+- Minhye + Nicole
+- George + Ruoshui
+- Nathan + Yasong
+- Carla + Wei Chung
+- Jin + Ting Fang
+- Pratheek + Yujie
+- Yongqing + Leah + Wen Chi

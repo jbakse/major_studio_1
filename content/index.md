@@ -14,7 +14,7 @@
 ##### [Assignment 0 — Studio Introduction](assignment_studio_introduction)
 ##### [Assignment 1 — 7 in 7](assignment_7_in_7)
 ##### [Assignment 2 — Ideas In Form](assignment_ideas_in_form)
-##### [Assignment 3 — Instruction Sets for Strangers](#assignment_3)
+##### [Assignment 3 — Instruction Sets for Strangers](assignment_instruction_sets)
 ##### [Assignment 4A — Final Project](#assignment_4)
 ##### [Assignment 4B — Final Paper](#assignment_5)
 
@@ -56,7 +56,7 @@ date | notes
 [M Sep 18](week_4/monday.html) | 3d Discussion, Reading Intro | 3d
 No Class | &nbsp; | &nbsp;
 |
-M Sep 25 | 4d Discussion, Instruction Sets for Strangers Intro | Interaction, Reading 2
+[M Sep 25](week_5/monday.html) | 4d Discussion, Instruction Sets for Strangers Intro | Interaction, Reading 2
 
 
 **Instruction Sets for Strangers**
@@ -67,7 +67,7 @@ W Sep 27 | Recon Discussion, Ideation Workshop | Recon
 M Oct 2 | Intervention 1 Discussion | Intervention 1
 W Oct 4 | Intervention 2 Discussion | Intervention 2
 |
-M Oct 9 | Intervention 3 Discussion | Intervention 3
+M Oct 9 | Instruction Sets Presentations, Midterm Introduction | A3 Presentation
 W Oct 11 | Instruction Sets Presentations, Final Introduction | A3 Presentation
 |
 M Oct 16 | Midterm Crit | Domain Statement
