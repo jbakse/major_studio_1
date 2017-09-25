@@ -1,4 +1,4 @@
-# Week 4 - Monday
+# Week 5 - Monday
 
 ## Preamble
 *3:30—3:50*
@@ -18,7 +18,7 @@ Set up room for 5 groups of 3.
 
 
 ## Instruction Sets Introduction
-*3:50—6:30*
+*4:50—6:30*
 
 
 ### Assignment Overview + Part 1 Overview
@@ -39,3 +39,10 @@ Set up room for 5 groups of 3.
 - What should you do while you are there?
 - What should you present?
 - Where should you go?
+
+### Pin-up Requirements
+*Due Wednesday*
+
+- Printed, 24x36 inches
+- Print ahead of time!
+- Pin-up on wall before class begins
