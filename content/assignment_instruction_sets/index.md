@@ -13,7 +13,7 @@ You are working in public, represent the New School well. **Don't be a jerk.**
 
 - Determine a public space away from the New School campus and research the location and its history.
 - Observe and record the space and use a variety of visual strategies to map its use over time.
-- Map, document and share the results of your observation. 
+- Map, document and share the results of your observation.
 
 #### Answer
 - What is the size and location of the space?
@@ -41,7 +41,7 @@ You are working in public, represent the New School well. **Don't be a jerk.**
 - What impact do you want to have on the space?
 - How can you use audio, gestural, and visual expression?
 - How can you encourage participation without words?
-- What will form will your intervention take?
+- What form will your intervention take?
 - How do you want people to participate?
 - What are you realistically *able* and *willing* to do?
 
@@ -74,7 +74,7 @@ You are working in public, represent the New School well. **Don't be a jerk.**
 - Observe and record how people interact with your project.
 
 #### Answer
-- What did you change about your interventions?
+- What did you change about your intervention?
 - Did the space also change?
 - Did these changes impact public response?
 
@@ -83,9 +83,8 @@ You are working in public, represent the New School well. **Don't be a jerk.**
 
 - Collect and organize your documentation for the project.
 - Create a page on your class website to document your intervention, process, and conclusions.
-- Create a 4 minute presentation of your intervention, process, and conclusions. 
+- Create a 4 minute presentation of your intervention, process, and conclusions.
 
 ### Presentation 3 — Final
 
 **October 9 + 11, digital slides, semi-formal, 4 minutes**
-

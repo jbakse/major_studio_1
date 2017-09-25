@@ -13,3 +13,7 @@ a[href^="#"]:not(.btn) { color: gray; text-decoration: none; }
 	margin-top: 67.5px;
 	margin-right: 20px;
 }
+
+.container{
+	padding-bottom:100px;
+}
