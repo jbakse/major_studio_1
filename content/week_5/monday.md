@@ -25,6 +25,7 @@ Set up room for 5 groups of 3.
 *25 minutes*
 
 [Instruction Sets for Strangers](../assignment_instruction_sets)
+[Example from 2016: Kris Li](http://www.krisliqc.com/work#/jenga/)
 
 ### Break + Partnering
 *10 minutes*
