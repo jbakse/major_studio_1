@@ -23,7 +23,7 @@ Entertain, Inform, Dialog, Connect, etc.
 ### Brainstorm Features of Space
 *Groups, 5 minutes*
 
-Shape? Size? Location? Materials? View? History?
+Shape? Size? Location? Materials? Appearance? Perspectives? History?
 
 ### Brainstorm Features of Audience
 *Groups, 5 minutes*
@@ -41,22 +41,22 @@ Complete 10 rounds of 2 minutes:
 
 - Choose one card from each deck.
 - Suggest an intervention that includes each element suggested by your chosen cards.
-- These ideas don't need to be good. The don't need to be complete.
-- Iterate, restate, mutate, your idea for the full two minutes; don't stop early or keep going when time runs out.
-- At the end of the time, write down your idea and move on the next round.
+- These ideas don't need to be good. They don't need to be complete.
+- Iterate, restate, and mutate your idea for the full two minutes; don't stop early; don't keep going when time runs out.
+- At the end of each round, write down your idea and move on the next round.
 
 ### Select Ideas
 *Individual, 2 minutes*
 
-- Choose your favorite 3 ideas
-- Choose your least favorite idea
+- Choose your favorite 3 ideas.
+- Choose your least favorite idea.
 
 ### Compare Selections
 *Groups, 4 minutes*
 
-- Compare your selections
-- As a group, choose your favorite 2 ideas
-- As a group, choose your least favorite idea
+- Compare your selections.
+- As a group, choose your favorite 2 ideas.
+- As a group, choose your least favorite idea.
 
 ### Summarize Idea
 *Groups, 6 minutes*
@@ -67,4 +67,3 @@ Complete 10 rounds of 2 minutes:
 
 - Read and briefly discuss each group's ideas.
 - Don't have groups tell which ideas are the favorites.
-
