@@ -62,7 +62,7 @@ No Class | &nbsp; | &nbsp;
 **Instruction Sets for Strangers**
 date | notes
 --- | ---
-W Sep 27 | Recon Discussion, Ideation Workshop | Recon
+[W Sep 27](week_5/wednesday.html) | Recon Discussion, Ideation Workshop | Recon
 |
 M Oct 2 | Intervention 1 Discussion | Intervention 1
 W Oct 4 | Intervention 2 Discussion | Intervention 2
