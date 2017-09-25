@@ -1,56 +1,70 @@
 # Week 5 - Wednesday
 
+## Preamble
+*3:30—3:50*
+
+Set up room for pin-up discussion.
+
+## Recon Pin-up Discussion
+*3:50—4:40*
+
+## Break
+*4:40—4:50*
+
+## Intervention Ideation Workshop
+*4:50—6:30*
 
 
+### Brainstorm Purpose Verbs
+*Class, 5 minutes*
 
-## Intervention Planning
-`5:10`
-Team: Create Decks
+Entertain, Inform, Dialog, Connect, etc.
 
-#### Features of the Space
-- Aspect of Shape
-- Aspect of Size
-- Aspect of Location
-- Aspect of Materials
-- ...
+### Brainstorm Features of Space
+*Groups, 5 minutes*
 
-#### Audience
-- Strangers
-- Friends
-- Individuals
-- ...
+Shape? Size? Location? Materials? View? History?
 
-#### Purpose
-- Pleasure
-- Inform
-- Dialog
-- Connect
-- Collect
-- ...
+### Brainstorm Features of Audience
+*Groups, 5 minutes*
 
-`5:30`
-Team: Produce 10 one-sentence ideas (good and bad) for interventions.
+Strangers? Friends? Fishermen? Artists? Shoppers?
 
-Example:
-> Near the Hudson:Strangers:Connect  
-> Invite people to draw pictures of boats on a chalkboard overlooking the river.
-
-> Bikes:Friends:Inform
-> Give out shirts to people leaving via bikes to spread awareness about a cause.
-
-2 minutes per.
-
-`5:50`
-Individuals: Choose and rank top 4 ideas.
-
-`5:55`
-Team: Compare rankings and pick top 3.
-
-`6:00`
-Team: Expand/explore on top 3 ideas.
-
-10 minutes each.
+### Finish Decks
+*Groups, 5 minutes*
 
 
+### Ideate
+*Groups, 20 minutes*
 
-# Part 2 + 
+Complete 10 rounds of 2 minutes:
+
+- Choose one card from each deck.
+- Suggest an intervention that includes each element suggested by your chosen cards.
+- These ideas don't need to be good. The don't need to be complete.
+- Iterate, restate, mutate, your idea for the full two minutes; don't stop early or keep going when time runs out.
+- At the end of the time, write down your idea and move on the next round.
+
+### Select Ideas
+*Individual, 2 minutes*
+
+- Choose your favorite 3 ideas
+- Choose your least favorite idea
+
+### Compare Selections
+*Groups, 4 minutes*
+
+- Compare your selections
+- As a group, choose your favorite 2 ideas
+- As a group, choose your least favorite idea
+
+### Summarize Idea
+*Groups, 6 minutes*
+- Write your 3 ideas as clear, single sentence summaries.
+
+### Present
+*Class, 30 minutes*
+
+- Read and briefly discuss each group's ideas.
+- Don't have groups tell which ideas are the favorites.
+
