@@ -66,7 +66,6 @@ You are working in public, represent the New School well. **Don't be a jerk.**
 
 **October 2 + 4, mixed-media, informal, 4 minutes**
 
-
 ### Part 4 — Iteration 2
 
 - Based on your observations, redevelop your intervention.
@@ -79,12 +78,17 @@ You are working in public, represent the New School well. **Don't be a jerk.**
 - Did these changes impact public response?
 
 
+### Presentation 3 — Final
+
+**October 9 + 11, mixed-media, informal, 4 minutes**
+
+
 ### Part 5 — Documentation + Presentation
 
 - Collect and organize your documentation for the project.
 - Create a page on your class website to document your intervention, process, and conclusions.
-- Create a 4 minute presentation of your intervention, process, and conclusions.
 
-### Presentation 3 — Final
 
-**October 9 + 11, digital slides, semi-formal, 4 minutes**
+### Final
+
+**October 23, Documentation posted to class site**

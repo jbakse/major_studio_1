@@ -35,72 +35,72 @@
 date | notes
 --- | ---
 **date** | **agenda** | **due**
-[M Aug 28](week_1/monday.html) | Studio Introduction Presentations, DT Intro, MS1 Intro + Syllabus, Studio Introduction Workshop | A0 Presentation
+[1M Aug 28](week_1/monday.html) | Studio Introduction Presentations, DT Intro, MS1 Intro + Syllabus, Studio Introduction Workshop | A0 Presentation
 
 
 **7 in 7**
 date | notes
 --- | ---
-[W Aug 30](week_1/wednesday.html) | Design Q&A, Constraints Intro, 7 in 7 Intro, Constraints + Framing Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
+[1W Aug 30](week_1/wednesday.html) | Design Q&A, Constraints Intro, 7 in 7 Intro, Constraints + Framing Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
 |
 No Class | &nbsp; | &nbsp;
-[W Sep 6](week_2/wednesday.html) | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro, Reading 1 Intro | A1 Discussion
+[2W Sep 6](week_2/wednesday.html) | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro, Reading 1 Intro | A1 Discussion
 
 
 **Ideas in Form**
 date | notes
 --- | ---
-[M Sep 11](week_3/monday.html) | Research Presentations, 1d Workshop | A2 Research
-[W Sep 13](week_3/wednesday.html) | 2d Discussion | 2d
+[3M Sep 11](week_3/monday.html) | Research Presentations, 1d Workshop | A2 Research
+[3W Sep 13](week_3/wednesday.html) | 2d Discussion | 2d
 |
-[M Sep 18](week_4/monday.html) | 3d Discussion | 3d
+[4M Sep 18](week_4/monday.html) | 3d Discussion | 3d
 No Class | &nbsp; | &nbsp;
 |
-[M Sep 25](week_5/monday.html) | 4d Discussion, Instruction Sets for Strangers Intro | Interaction
+[5M Sep 25](week_5/monday.html) | 4d Discussion, Instruction Sets for Strangers Intro | Interaction
 
 
 **Instruction Sets for Strangers**
 date | notes
 --- | ---
-[W Sep 27](week_5/wednesday.html) | Recon Discussion, Ideation Workshop | Recon
+[5W Sep 27](week_5/wednesday.html) | Recon Discussion, Ideation Workshop | Recon
 |
-M Oct 2 | Intervention 1 Discussion, Reflection | Intervention 1
-W Oct 4 | Intervention 1 Discussion, Reflection | Intervention 2
+[6M Oct 2](week_6/monday.html) | Intervention 1 Discussion, Reflection | Intervention 1
+6W Oct 4 | Intervention 1 Discussion, Midterm Introduction | Intervention 2
 |
-M Oct 9 | Intervention 2 Discussion, Midterm Introduction | A3 Presentation
-W Oct 11 | Intervention 2 Discussion, Final Introduction | A3 Presentation
+7M Oct 9 | Intervention 2 Discussion | Intervention 2
+7W Oct 11 | Intervention 2 Discussion, Final Introduction | Intervention 2
 |
-M Oct 16 | Midterm Crit | &nbsp;
-W Oct 18 | Midterm Crit | &nbsp;
+8M Oct 16 | Midterm Crit | &nbsp;
+8W Oct 18 | Midterm Crit | &nbsp;
 
 **Final Project**
 date | notes
 --- | ---
-M Oct 23 | Research Discussion | Broad Research, Domain Statement
-W Oct 25 | Research Discussion | Deep Research
+9M Oct 23 | Research Discussion | Broad Research, Domain Statement
+9W Oct 25 | Research Discussion | Deep Research
 |
-M Oct 30 | Intro to Prototyping, Bodystorming Workshop | R3
-W Nov 1 | Proto 1 Discussion | Proto 1
+10M Oct 30 | Study Discussion | Studies
+10W Nov 1 | Intro to Prototyping, Bodystorming Workshop | &nbsp;
 |
-M Nov 6 | Proto 2 Discussion | Proto 2
-W Nov 8 | Proto 3 Discussion | Proto 3
+11M Nov 6 | Prototype Discussions | Prototypes
+11W Nov 8 | Prototype Discussions | &nbsp;
 |
-M Nov 13 | User Testing Workshop | POC
-W Nov 15 | POC Discussion | POC User Tests
+12M Nov 13 | User Testing Workshop | POC
+12W Nov 15 | POC Discussion | POC User Tests
 |
-M Nov 20 | Discussion + Open Studio | Release Candidate 1, Reading 4
+13M Nov 20 | Discussion + Open Studio | Release Candidate 1
 No Class | &nbsp; | &nbsp;
 |
-M Nov 27 | Discussion + Open Studio, 1-on-1s | &nbsp;
-W Nov 29 | Discussion + Open Studio, 1-on-1s | Release Candidate 2
+14M Nov 27 | Discussion + Open Studio, 1-on-1s | &nbsp;
+14W Nov 29 | Discussion + Open Studio, 1-on-1s | Release Candidate 2
 |
-M Dec 4 | Discussion + Open Studio | &nbsp;
-W Dec 6 | Discussion + Open Studio | Release Candidate 3
+15M Dec 4 | Discussion + Open Studio | &nbsp;
+15W Dec 6 | Discussion + Open Studio | Release Candidate 3
 |
-M Dec 11 | Final Crit | &nbsp;
-W Dec 13 | Final Crit | &nbsp;
+16M Dec 11 | Final Crit | &nbsp;
+16W Dec 13 | Final Crit | &nbsp;
 |
-M Dec 18 | Site Reviews, Reflection | Final Site
+17M Dec 18 | Site Reviews, Reflection | Final Site
 
 
 
