@@ -53,10 +53,10 @@ date | notes
 [M Sep 11](week_3/monday.html) | Research Presentations, 1d Workshop | A2 Research
 [W Sep 13](week_3/wednesday.html) | 2d Discussion | 2d
 |
-[M Sep 18](week_4/monday.html) | 3d Discussion, Reading Intro | 3d
+[M Sep 18](week_4/monday.html) | 3d Discussion | 3d
 No Class | &nbsp; | &nbsp;
 |
-[M Sep 25](week_5/monday.html) | 4d Discussion, Instruction Sets for Strangers Intro | Interaction, Reading 2
+[M Sep 25](week_5/monday.html) | 4d Discussion, Instruction Sets for Strangers Intro | Interaction
 
 
 **Instruction Sets for Strangers**
@@ -64,19 +64,19 @@ date | notes
 --- | ---
 [W Sep 27](week_5/wednesday.html) | Recon Discussion, Ideation Workshop | Recon
 |
-M Oct 2 | Intervention 1 Discussion | Intervention 1
-W Oct 4 | Intervention 2 Discussion | Intervention 2
+M Oct 2 | Intervention 1 Discussion, Reflection | Intervention 1
+W Oct 4 | Intervention 1 Discussion, Reflection | Intervention 2
 |
-M Oct 9 | Instruction Sets Presentations, Midterm Introduction | A3 Presentation
-W Oct 11 | Instruction Sets Presentations, Final Introduction | A3 Presentation
+M Oct 9 | Intervention 2 Discussion, Midterm Introduction | A3 Presentation
+W Oct 11 | Intervention 2 Discussion, Final Introduction | A3 Presentation
 |
-M Oct 16 | Midterm Crit | Domain Statement
+M Oct 16 | Midterm Crit | &nbsp;
 W Oct 18 | Midterm Crit | &nbsp;
 
 **Final Project**
 date | notes
 --- | ---
-M Oct 23 | Research Discussion | Broad Research
+M Oct 23 | Research Discussion | Broad Research, Domain Statement
 W Oct 25 | Research Discussion | Deep Research
 |
 M Oct 30 | Intro to Prototyping, Bodystorming Workshop | R3
