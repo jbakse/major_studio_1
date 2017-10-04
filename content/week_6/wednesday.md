@@ -25,16 +25,20 @@ Guiding Questions:
 ## Break
 *5:20-5:30*
 
-## Reflection Discussion — Part II
+## Instruction Sets Reflections and Planning
 *5:30*
 
-- What have we made so far? Why?
-- What are the relationships between ideas, domains, audience, subjects, form, and purpose?
-- What is secondary research? Primary research? Desk research? Experimental Research? Field Research?
-- What is the relationship between studio practice and research?
-- What are the boundaries of Ideas/Sketches/Studies/Prototypes/Projects/Products?
-- When should you start? Can you start without an idea?
-- How do you approach projects?
+
+- What form did you intervention take? What was it made of? What did it look like? How big was it? Where was it, specifically?
+- How did you want people to react? How many people did you expect? What did you expect them to do? What did you expect them to think? to feel? to say?
+- How did people actually react?
+- What did you learn?
+- What *could* you change about you intervention?
+- What *will* you change?
+
+
+
+
 
 <!-- Research | &nbsp;
 --- | ---
