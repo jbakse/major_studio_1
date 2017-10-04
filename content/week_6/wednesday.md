@@ -31,11 +31,17 @@ Guiding Questions:
 
 In addition to your peers and studio faculty, up to two other MFADT faculty will be present to provide feedback.
 
+Presentations will take place in your regular classroom.
+
+
 - Present your **Ideas in Form** assignment, including the initial concept or framing, and each successive study. Conclude with a revised concept based on your findings during the course of the project.
 - Present your **Instruction Sets for Strangers** project. Though this was a group project, you will present your perspectives on the site, research, intervention plan, and how the intervention worked out.
 - Reflect on **your progress** through the first 8 weeks. What are areas of strength? What weaknesses need attention? Have particular domains or lenses emerged as important for your creative practice?
 
-Tip: Bring a Dongle!
+**well organized, clear, and concise**
+
+
+Tip: Bring your AV Adaptor!
 
 
 ## Writing, Reflecting, Planning
