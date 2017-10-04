@@ -65,7 +65,7 @@ date | notes
 [5W Sep 27](week_5/wednesday.html) | Recon Discussion, Ideation Workshop | Recon
 |
 [6M Oct 2](week_6/monday.html) | Intervention 1 Discussion, Reflection | Intervention 1
-6W Oct 4 | Intervention 1 Discussion, Midterm Introduction | Intervention 2
+[6W Oct 4](week_6/wednesday.html) | Intervention 1 Discussion, Midterm Introduction | Intervention 2
 |
 7M Oct 9 | Intervention 2 Discussion | Intervention 2
 7W Oct 11 | Intervention 2 Discussion, Final Introduction | Intervention 2
