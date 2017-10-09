@@ -15,7 +15,7 @@
 ##### [Assignment 1 — 7 in 7](assignment_7_in_7)
 ##### [Assignment 2 — Ideas In Form](assignment_ideas_in_form)
 ##### [Assignment 3 — Instruction Sets for Strangers](assignment_instruction_sets)
-##### [Assignment 4A — Final Project](#assignment_4)
+##### [Assignment 4A — Final Project](#assignment_final)
 ##### [Assignment 4B — Final Paper](#assignment_5)
 
 
@@ -24,9 +24,6 @@
 ##### [Reading 2 — The Social Life of Small Urban Spaces](#reading_2)
 ##### [Reading 3 — What do Prototypes Prototype?](#reading_3)
 ##### [Reading 4 — Web Design: The First 100 Years](#reading_4)
-
-
-
 
 
 
@@ -67,8 +64,8 @@ date | notes
 [6M Oct 2](week_6/monday.html) | Intervention 1 Discussion, Reflection | Intervention 1
 [6W Oct 4](week_6/wednesday.html) | Intervention 1 Discussion, Midterm Introduction | Intervention 2
 |
-7M Oct 9 | Intervention 2 Discussion | Intervention 2
-7W Oct 11 | Intervention 2 Discussion, Final Introduction | Intervention 2
+[7M Oct 9](week_7/monday.html) | Intervention 2 Discussion | Intervention 2
+[7W Oct 11](week_7/wednesday.html) | Intervention 2 Discussion, Final Introduction | Intervention 2
 |
 8M Oct 16 | Midterm Crit | &nbsp;
 8W Oct 18 | Midterm Crit | &nbsp;
