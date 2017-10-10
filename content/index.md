@@ -73,31 +73,31 @@ date | notes
 **Final Project**
 date | notes
 --- | ---
-9M Oct 23 | Research Discussion | Broad Research, Domain Statement
-9W Oct 25 | Research Discussion | Deep Research
+9M Oct 23 | Conceptualization + Research | Instruction Sets Documentation
+9W Oct 25 | Conceptualization + Research | &nbsp;
 |
-10M Oct 30 | Study Discussion | Studies
-10W Nov 1 | Intro to Prototyping, Bodystorming Workshop | &nbsp;
+10M Oct 30 | Design Values + Proposals | &nbsp;
+10W Nov 1 | Design Values + Proposals | &nbsp;
 |
-11M Nov 6 | Prototype Discussions | Prototypes
-11W Nov 8 | Prototype Discussions | &nbsp;
+11M Nov 6 | Prototyping | **Project Proposal**, Reading 3
+11W Nov 8 | Prototyping | Paper Outline
 |
-12M Nov 13 | User Testing Workshop | POC
-12W Nov 15 | POC Discussion | POC User Tests
+12M Nov 13 | User Testing | &nbsp; 
+12W Nov 15 | User Testing | &nbsp; 
 |
-13M Nov 20 | Discussion + Open Studio | Release Candidate 1
+13M Nov 20 | PoC Prototyping | Paper Draft
 No Class | &nbsp; | &nbsp;
 |
-14M Nov 27 | Discussion + Open Studio, 1-on-1s | &nbsp;
-14W Nov 29 | Discussion + Open Studio, 1-on-1s | Release Candidate 2
+14M Nov 27 | Iteration | **Full PoC**
+14W Nov 29 | Iteration | &nbsp;
 |
-15M Dec 4 | Discussion + Open Studio | &nbsp;
-15W Dec 6 | Discussion + Open Studio | Release Candidate 3
+15M Dec 4 | Iteration | Final Paper
+15W Dec 6 | Iteration | &nbsp;
 |
-16M Dec 11 | Final Crit | &nbsp;
+16M Dec 11 | Final Crit | **Final Project**
 16W Dec 13 | Final Crit | &nbsp;
 |
-17M Dec 18 | Site Reviews, Reflection | Final Site
+17M Dec 18 | Site Reviews, Reflection | Final Site, Reading 1
 
 
 
