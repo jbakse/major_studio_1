@@ -15,8 +15,8 @@
 ##### [Assignment 1 — 7 in 7](assignment_7_in_7)
 ##### [Assignment 2 — Ideas In Form](assignment_ideas_in_form)
 ##### [Assignment 3 — Instruction Sets for Strangers](assignment_instruction_sets)
-##### [Assignment 4A — Final Project](#assignment_final)
-##### [Assignment 4B — Final Paper](#assignment_5)
+##### [Assignment 4A — Final Project](assignment_final)
+##### [Assignment 4B — Final Paper](assignment_paper)
 
 
 ## Readings

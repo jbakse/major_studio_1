@@ -19,6 +19,17 @@ Guiding Questions:
 ## Break
 *5:00-5:10*
 
+
+## Next Two Weeks in Brief
+
+1. Prepare and delivery your midterm presentation.
+2. Document and post your Instruction Sets project to your class website.
+3. Revise your class website. This will be your last, best chance.
+4. Read *What do Prototypes Prototype?*
+5. Begin thinking about your final project, and be ready to jump in.
+
+
+
 ## Final Project in Brief
 
 [Final Assignment](#../assignment_final)

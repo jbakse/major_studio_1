@@ -1,7 +1,6 @@
 # Assignment 4A — Final Project
 
-
-The second half of the semester is dedicated to the Final Project and the related Final Paper. 
+The second half of the semester is dedicated to the Final Project and the related [Final Paper](../assignment_paper). 
 
 ### Final Project
 
@@ -67,16 +66,39 @@ Read [John Sharp's](http://www.heyimjohn.com/design-values/) essay on design val
 
 Following the example in John's essay, develop a set of five design values. Write a title (1-6 words) and description (50-100 words) for each value.
 
-[Proposal Outlining]
-[Proposal Madlibs]
+<!-- Proposal Outlining -->
+<!-- Proposal Madlibs -->
+
+### Proposal
+
+Write a 500-1000 word project proposal outlining your intended direction for the final project. 
+
+It should specifically address the following:
+
+- *Context*: What are your areas of inquiry, what are you studying, and why?
+- *Intention*: What (generally) do you plan to make, and why? How is this making a response to your inquiry?
+- *Impact*: What is the goal of your project, why is it important, and why should we care?
+- *Design Values*: What values will guide your process?
+
+Your proposal should draw from your on-going design research and your writing workshops and assignments. 
+
+**Your proposal must be reviewed and edited by at least one person. Credit your editor at the end of your proposal.**
+
+Suggestions:
+- Include a quote, properly cited. Your quote should clearly and specifically support a point in your proposal.
+- Include images of your precedents. Use captions or specific references in your writing to connect each image and precedent to your larger point.
+- Consider including other visuals and illustrations.
+- Consider how subheadings may help clarify the structure of your proposal.
+- Consider how layout and design can support your proposal.
+- Include a hook, clear introduction, and clear conclusion.
+
+Post your final proposal to your class website.
 
 
 
-## Week 11 - Prototyping
+## Week 11 — Prototyping
 
-### Create and Test Three Prototypes
-
-Consider your project carefully and identify as many outstanding questions as you can. Identify three important questions that you can answer (or partly answer) through prototyping. Design, build, test, and document three prototypes.
+Consider your project carefully and identify as many outstanding questions as you can. Identify three important questions that you can answer (or partly answer) through prototyping. Design, build, test, and document **at least three** prototypes.
 
 For each prototype answer the following:
 
@@ -85,29 +107,26 @@ For each prototype answer the following:
 - What did you learn from testing your prototype?
 
 
-
-
-## Week 12 - User Testing 
+## Week 12 — User Testing 
 
 Design and build a new prototype. Test your prototype with five people. Learn from their experience through direct observation and interviewing. Document each interaction and interview as well as your findings. 
 
+## Week 13 — PoC Prototyping 
 
-## Week 13 - PoC Prototyping 
+Build a full *Narrative Complete Product* / *Minimum Viable Product*
 
-Build a full *Narrative Complete Product*
-
-## Week 14 - Iteration 
+## Week 14 — Iteration 
 
 Refine your project.
 
-## Week 15 - Iteration
+## Week 15 — Iteration
 
 Refine your project.
 
 ## Week 16 — Final Crit
 
-Final Crit Format
+Final Crit
 
-## Week 17 - Reflection
+## Week 17 — Reflection
 
 Postmortem Discussion

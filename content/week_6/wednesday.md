@@ -40,6 +40,7 @@ Presentations will take place in your regular classroom.
 
 **well organized, clear, and concise**
 
+*precise, bass-heavy, and just right*
 
 Tip: Bring your AV Adaptor!
 
