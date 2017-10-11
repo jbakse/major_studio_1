@@ -3,7 +3,7 @@
 ## Preamble
 *3:30—3:50*
 
-Set up room for 5 groups of 3.
+Set up room for 4 groups of 4.
 
 ## Interaction Group Discussions
 *3:50-4:50*

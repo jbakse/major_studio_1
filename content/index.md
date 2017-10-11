@@ -15,8 +15,8 @@
 ##### [Assignment 1 — 7 in 7](assignment_7_in_7)
 ##### [Assignment 2 — Ideas In Form](assignment_ideas_in_form)
 ##### [Assignment 3 — Instruction Sets for Strangers](assignment_instruction_sets)
-##### [Assignment 4A — Final Project](#assignment_4)
-##### [Assignment 4B — Final Paper](#assignment_5)
+##### [Assignment 4A — Final Project](assignment_final)
+##### [Assignment 4B — Final Paper](assignment_paper)
 
 
 ## Readings
@@ -27,80 +27,77 @@
 
 
 
-
-
-
 ### Calendar
 **Warm Up**
 date | notes
 --- | ---
 **date** | **agenda** | **due**
-[M Aug 28](week_1/monday.html) | Studio Introduction Presentations, DT Intro, MS1 Intro + Syllabus, Studio Introduction Workshop | A0 Presentation
+[1M Aug 28](week_1/monday.html) | Studio Introduction Presentations, DT Intro, MS1 Intro + Syllabus, Studio Introduction Workshop | A0 Presentation
 
 
 **7 in 7**
 date | notes
 --- | ---
-[W Aug 30](week_1/wednesday.html) | Design Q&A, Constraints Intro, 7 in 7 Intro, Constraints + Framing Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
+[1W Aug 30](week_1/wednesday.html) | Design Q&A, Constraints Intro, 7 in 7 Intro, Constraints + Framing Workshop | [Meta Assignment](http://localhost:3000/week_1/monday.html)
 |
 No Class | &nbsp; | &nbsp;
-[W Sep 6](week_2/wednesday.html) | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro, Reading 1 Intro | A1 Discussion
+[2W Sep 6](week_2/wednesday.html) | 7 in 7 Presentations, Research and Mapping, Ideas in Form Intro, Reading 1 Intro | A1 Discussion
 
 
 **Ideas in Form**
 date | notes
 --- | ---
-[M Sep 11](week_3/monday.html) | Research Presentations, 1d Workshop | A2 Research
-[W Sep 13](week_3/wednesday.html) | 2d Discussion | 2d
+[3M Sep 11](week_3/monday.html) | Research Presentations, 1d Workshop | A2 Research
+[3W Sep 13](week_3/wednesday.html) | 2d Discussion | 2d
 |
-[M Sep 18](week_4/monday.html) | 3d Discussion, Reading Intro | 3d
+[4M Sep 18](week_4/monday.html) | 3d Discussion | 3d
 No Class | &nbsp; | &nbsp;
 |
-[M Sep 25](week_5/monday.html) | 4d Discussion, Instruction Sets for Strangers Intro | Interaction, Reading 2
+[5M Sep 25](week_5/monday.html) | 4d Discussion, Instruction Sets for Strangers Intro | Interaction
 
 
 **Instruction Sets for Strangers**
 date | notes
 --- | ---
-[W Sep 27](week_5/wednesday.html) | Recon Discussion, Ideation Workshop | Recon
+[5W Sep 27](week_5/wednesday.html) | Recon Discussion, Ideation Workshop | Recon
 |
-M Oct 2 | Intervention 1 Discussion | Intervention 1
-W Oct 4 | Intervention 2 Discussion | Intervention 2
+[6M Oct 2](week_6/monday.html) | Intervention 1 Discussion, Reflection | Intervention 1
+[6W Oct 4](week_6/wednesday.html) | Intervention 1 Discussion, Midterm Introduction | Intervention 2
 |
-M Oct 9 | Instruction Sets Presentations, Midterm Introduction | A3 Presentation
-W Oct 11 | Instruction Sets Presentations, Final Introduction | A3 Presentation
+[7M Oct 9](week_7/monday.html) | Intervention 2 Discussion | Intervention 2
+[7W Oct 11](week_7/wednesday.html) | Intervention 2 Discussion, Final Introduction | Intervention 2
 |
-M Oct 16 | Midterm Crit | Domain Statement
-W Oct 18 | Midterm Crit | &nbsp;
+8M Oct 16 | Midterm Crit | &nbsp;
+8W Oct 18 | Midterm Crit | &nbsp;
 
 **Final Project**
 date | notes
 --- | ---
-M Oct 23 | Research Discussion | Broad Research
-W Oct 25 | Research Discussion | Deep Research
+9M Oct 23 | Conceptualization + Research | Instruction Sets Documentation
+9W Oct 25 | Conceptualization + Research | &nbsp;
 |
-M Oct 30 | Intro to Prototyping, Bodystorming Workshop | R3
-W Nov 1 | Proto 1 Discussion | Proto 1
+10M Oct 30 | Design Values + Proposals | &nbsp;
+10W Nov 1 | Design Values + Proposals | &nbsp;
 |
-M Nov 6 | Proto 2 Discussion | Proto 2
-W Nov 8 | Proto 3 Discussion | Proto 3
+11M Nov 6 | Prototyping | **Project Proposal**, Reading 3
+11W Nov 8 | Prototyping | Paper Outline
 |
-M Nov 13 | User Testing Workshop | POC
-W Nov 15 | POC Discussion | POC User Tests
+12M Nov 13 | User Testing | &nbsp; 
+12W Nov 15 | User Testing | &nbsp; 
 |
-M Nov 20 | Discussion + Open Studio | Release Candidate 1, Reading 4
+13M Nov 20 | PoC Prototyping | Paper Draft
 No Class | &nbsp; | &nbsp;
 |
-M Nov 27 | Discussion + Open Studio, 1-on-1s | &nbsp;
-W Nov 29 | Discussion + Open Studio, 1-on-1s | Release Candidate 2
+14M Nov 27 | Iteration | **Full PoC**
+14W Nov 29 | Iteration | &nbsp;
 |
-M Dec 4 | Discussion + Open Studio | &nbsp;
-W Dec 6 | Discussion + Open Studio | Release Candidate 3
+15M Dec 4 | Iteration | Final Paper
+15W Dec 6 | Iteration | &nbsp;
 |
-M Dec 11 | Final Crit | &nbsp;
-W Dec 13 | Final Crit | &nbsp;
+16M Dec 11 | Final Crit | **Final Project**
+16W Dec 13 | Final Crit | &nbsp;
 |
-M Dec 18 | Site Reviews, Reflection | Final Site
+17M Dec 18 | Site Reviews, Reflection | Final Site, Reading 1
 
 
 
