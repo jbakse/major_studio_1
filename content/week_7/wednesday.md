@@ -22,7 +22,7 @@ Guiding Questions:
 
 ## Next Two Weeks in Brief
 
-1. Prepare and delivery your midterm presentation.
+1. Prepare and deliver your midterm presentation.
 2. Document and post your Instruction Sets project to your class website.
 3. Revise your class website. This will be your last, best chance.
 4. Read *What do Prototypes Prototype?*
@@ -38,4 +38,3 @@ Guiding Questions:
 
 ## 1-on-1s
 *5:30-6:30*
-

@@ -2,7 +2,7 @@
 
 In conjunction with your [Final Project](../assignment_final) you will write a final paper that explores similar themes.
 
-Your paper should describe the project's core concept and questions; articulate a clear opinion in response to those questions, and defend that opinion and your final project work through a presentation of research. The paper is not simply a project description or a research compilation, it must be structured as an argument that uses research to prove the point you are seeking to make through you work.
+Your paper should describe the project's core concept and questions. Articulate a clear opinion in response to those questions, and defend that opinion and your final project work through a presentation of research. The paper is not simply a project description or a research compilation. It must be structured as an argument that uses research to prove the point you are seeking to make through you work.
 
 ## Specifications
 - 1500—2500 words

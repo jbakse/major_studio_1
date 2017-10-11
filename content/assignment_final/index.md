@@ -1,6 +1,6 @@
 # Assignment 4A — Final Project
 
-The second half of the semester is dedicated to the Final Project and the related [Final Paper](../assignment_paper). 
+The second half of the semester is dedicated to the Final Project and the related [Final Paper](../assignment_paper).
 
 ### Final Project
 
@@ -10,7 +10,7 @@ You will document your process and post to your personal portfolio blog througho
 
 **You must post significant process updates each week.**
 
-The content of these posts will vary from student to student and from week to week. These posts should summarize the work you have done that week, along with any findings. I will assign *additional, specific* content or excercises to include during some weeks.
+The content of these posts will vary from student to student and from week to week. These posts should summarize the work you have done that week, along with any findings. I will assign *additional, specific* content or exercises to include during some weeks.
 
 **Your weekly update is due before class each Monday.**
 
@@ -18,11 +18,11 @@ The content of these posts will vary from student to student and from week to we
 
 Begin the work of conceptualizing your final project through primary and secondary research. This week you want to identify the broad direction of your project and look for interesting approaches to your work.
 
-Combine desk research, field research, form studies, interviews, and other methods as fits your personal creative process. Think, read, write, make. 
+Combine desk research, field research, form studies, interviews, and other methods as fits your personal creative process. Think, read, write, make.
 
 **Document your research, process, and findings.**
 
-*In addition* complete the following tasks and add them to your process blog. 
+*In addition* complete the following tasks and add them to your process blog.
 
 ### Initial Project Direction
 
@@ -62,7 +62,7 @@ Precedent Studies
 
 ### Design Values
 
-Read [John Sharp's](http://www.heyimjohn.com/design-values/) essay on design values and consider the "qualities and characteristics you want to embody in your work." 
+Read [John Sharp's](http://www.heyimjohn.com/design-values/) essay on design values and consider the "qualities and characteristics you want to embody in your work."
 
 Following the example in John's essay, develop a set of five design values. Write a title (1-6 words) and description (50-100 words) for each value.
 
@@ -71,16 +71,16 @@ Following the example in John's essay, develop a set of five design values. Writ
 
 ### Proposal
 
-Write a 500-1000 word project proposal outlining your intended direction for the final project. 
+Write a 500-1000 word project proposal outlining your intended direction for the final project.
 
 It should specifically address the following:
 
 - *Context*: What are your areas of inquiry, what are you studying, and why?
-- *Intention*: What (generally) do you plan to make, and why? How is this making a response to your inquiry?
+- *Intention*: What (generally) do you plan to make, and why? How does this make a response to your inquiry?
 - *Impact*: What is the goal of your project, why is it important, and why should we care?
 - *Design Values*: What values will guide your process?
 
-Your proposal should draw from your on-going design research and your writing workshops and assignments. 
+Your proposal should draw from your ongoing design research and your writing workshops and assignments.
 
 **Your proposal must be reviewed and edited by at least one person. Credit your editor at the end of your proposal.**
 
@@ -107,15 +107,15 @@ For each prototype answer the following:
 - What did you learn from testing your prototype?
 
 
-## Week 12 — User Testing 
+## Week 12 — User Testing
 
-Design and build a new prototype. Test your prototype with five people. Learn from their experience through direct observation and interviewing. Document each interaction and interview as well as your findings. 
+Design and build a new prototype. Test your prototype with five people. Learn from their experiences through direct observation and interviewing. Document each interaction and interview as well as your findings.
 
-## Week 13 — PoC Prototyping 
+## Week 13 — PoC Prototyping
 
 Build a full *Narrative Complete Product* / *Minimum Viable Product*
 
-## Week 14 — Iteration 
+## Week 14 — Iteration
 
 Refine your project.
 
