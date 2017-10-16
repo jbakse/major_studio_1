@@ -67,7 +67,7 @@ date | notes
 [7M Oct 9](week_7/monday.html) | Intervention 2 Discussion | Intervention 2
 [7W Oct 11](week_7/wednesday.html) | Intervention 2 Discussion, Final Introduction | Intervention 2
 |
-8M Oct 16 | Midterm Crit | &nbsp;
+[8M Oct 16](week_8/monday.html) | Midterm Crit | &nbsp;
 8W Oct 18 | Midterm Crit | &nbsp;
 
 **Final Project**
