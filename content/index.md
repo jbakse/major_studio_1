@@ -73,7 +73,7 @@ date | notes
 **Final Project**
 date | notes
 --- | ---
-9M Oct 23 | Conceptualization + Research | Instruction Sets Documentation
+[9M Oct 23](week_9/monday.html) | Conceptualization + Research | Instruction Sets Documentation
 9W Oct 25 | Conceptualization + Research | &nbsp;
 |
 10M Oct 30 | Design Values + Proposals | &nbsp;

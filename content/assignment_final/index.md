@@ -18,25 +18,19 @@ The content of these posts will vary from student to student and from week to we
 
 Begin the work of conceptualizing your final project through primary and secondary research. This week you want to identify the broad direction of your project and look for interesting approaches to your work.
 
-Combine desk research, field research, form studies, interviews, and other methods as fits your personal creative process. Think, read, write, make.
+### Research
 
-**Document your research, process, and findings.**
+Combine desk research, field research, form studies, interviews, and other methods as fits your personal creative process. Consider running your own version of *7-in-7* or *Ideas in Form* to explore the potential of your developing project.
 
-*In addition* complete the following tasks and add them to your process blog.
+
+Think, read, write, make. Document your research, process, and findings.
+
+**This is your primary assignment this week. Get your hands dirty**
+
 
 ### Initial Project Direction
 
-Answer the following questions. Each answer should be *at least* 50 words.
-
-- What *domains* are you researching and investigating?
-- Why are you interested in these domains?
-- Who, specifically, will you create your work for?
-- Where and how would it most likely be experienced?
-- What is the *design purpose* of your project?
-- Why is that purpose important to you?
-- What are your primary educational goals for this class, this semester, and this program?
-- What project priorities do those goals suggest?
-- What criteria will you use to evaluate the success of your project?
+Working from your answers in Monday's [Project Focus Workshop](../week_9/monday.html), create a written 250—500 description of your initial project direction.
 
 ### 3-5 Precedents
 
@@ -49,12 +43,12 @@ For each precedent, your description should answer the following questions:
 - How does the precedent inform your project? What have you learned from it?
 
 
-Secondary Research
-Primary Research
-Form Studies
-Interviews
-Surveys
-Precedent Studies
+### Due this Week
+
+**October 25: Precedent Show and Tell**
+
+**October 29: Process Blog Post**
+
 
 
 ## Week 10 — Design Values + Proposal
