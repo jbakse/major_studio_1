@@ -74,10 +74,10 @@ date | notes
 date | notes
 --- | ---
 [9M Oct 23](week_9/monday.html) | Conceptualization + Research | Instruction Sets Documentation
-9W Oct 25 | Conceptualization + Research | &nbsp;
+[9W Oct 25](week_9/wednesday.html) | Conceptualization + Research | &nbsp;
 |
-10M Oct 30 | Design Values + Proposals | &nbsp;
-10W Nov 1 | Design Values + Proposals | &nbsp;
+[10M Oct 30](week_10/monday.html) | Design Values + Proposals | &nbsp;
+[10W Nov 1](week_10/wednesday.html) | Design Values + Proposals | &nbsp;
 |
 11M Nov 6 | Prototyping | **Project Proposal**, Reading 3
 11W Nov 8 | Prototyping | Paper Outline
