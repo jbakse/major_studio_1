@@ -23,9 +23,9 @@ Remaining Presentation
 ## Design Values
 *4:20-5:00*
 
-Read John Sharp’s essay on design values and consider the “qualities and characteristics you want to embody in your work.”
+Read [John Sharp's](http://www.heyimjohn.com/design-values/) essay on design values and consider the "qualities and characteristics you want to embody in your work."
 
-Following the example in John’s essay, develop a set of five design values. Write a title (1-6 words) and description (50-100 words) for each value.
+Following the example in John's essay, develop a set of five design values. Write a title (1-6 words) and description (50-100 words) for each value.
 
 Complete this exercise as homework.
 
