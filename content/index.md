@@ -79,7 +79,7 @@ date | notes
 [10M Oct 30](week_10/monday.html) | Design Values + Proposals | &nbsp;
 [10W Nov 1](week_10/wednesday.html) | Design Values + Proposals | &nbsp;
 |
-11M Nov 6 | Prototyping | **Project Proposal**, Reading 3
+[11M Nov 6](week_11/monday.html) | Prototyping | **Project Proposal**, Reading 3
 11W Nov 8 | Prototyping | Paper Outline
 |
 12M Nov 13 | User Testing | &nbsp; 
