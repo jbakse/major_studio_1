@@ -1,4 +1,4 @@
-# Week 11 - Wednesday
+# Week 11 — Wednesday
 
 ## Preamble
 *3:30—3:50*
@@ -9,9 +9,9 @@ Set up room for paper prototyping.
 ## You are Here
 *3:50—4:10*
 
-You have writen your proposal!
+You have written your proposal!
 
-What you have done so far:
+In the process you have:
 
 - identified an area of inquiry and located it within domains
 - researched your domains through reading and making
@@ -20,7 +20,7 @@ What you have done so far:
 - identified your desired impact
 - proposed an initial concept and direction
 
-This represents a lot of work and has given you a much more informed perspective about your project than you had two weeks ago. 
+This represents a lot of work and has given you a much more informed perspective about your project than you had two weeks ago.
 
 **Do not change horses midstream.**
 
@@ -55,7 +55,7 @@ I think of prototypes this way:
 ## What to Prototype
 *4:30—4:50*
 
-You should use prototypes to explore and test important aspects of your project. Focus on the most important and least clear aspects. Important aspects need to be tested even if you think you know the best way to address them, and unclear aspects become clearer through testing. 
+You should use prototypes to explore and test important aspects of your project. Focus on the aspects that are both the **most important** and the **least clear**. Important aspects need to be tested even if you think you know the best way to address them; unclear aspects become clearer through testing.
 
 The first step in creating a prototype is identifying your project's important open design questions. Consider your project and its purpose, focus on important areas, and list questions that need to be answered.
 
@@ -72,7 +72,7 @@ Specifically I want to find out **what types of manipulations users need to make
 
 
 I am in the early stages of designing **a workshop to teach html/css**.
-A core consideration for this project is **what kind in-class assignment to use**.
+A core consideration for this project is **what kind of in-class assignment to use**.
 Specifically I want to find out **if having students re-create a poster in html/css will be effective**.
 
 
@@ -104,7 +104,4 @@ Share one of your prototype statements with the class, and describe a prototype 
 
 ## Due Wednesday
 
-For Wednesday, identify a core aspect of your project to prototype and **create** a prototype to test this aspect. Bring your prototypes to class on Wednesday. We will use class time on wednesday to **test** and **document** your prototypes.
-
-
-
+For Wednesday, identify a core aspect of your project to prototype and **create** a prototype to test this aspect. Bring your prototypes to class on Wednesday. We will use class time on Wednesday to **test** and **document** your prototypes.
