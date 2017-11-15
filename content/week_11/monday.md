@@ -1,4 +1,4 @@
-# Week 11 — Wednesday
+# Week 11 — Monday
 
 ## Preamble
 *3:30—3:50*

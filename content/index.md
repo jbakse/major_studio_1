@@ -80,16 +80,16 @@ date | notes
 [10W Nov 1](week_10/wednesday.html) | Design Values + Proposals | &nbsp;
 |
 [11M Nov 6](week_11/monday.html) | Prototyping | **Project Proposal**, Reading 3
-11W Nov 8 | Prototyping | Paper Outline
+[11W Nov 8](week_11/wednesday.html) | Prototyping | Paper Outline
 |
-12M Nov 13 | User Testing | &nbsp; 
-12W Nov 15 | User Testing | &nbsp; 
+[12M Nov 13](week_12/monday.html) | User Testing | &nbsp; 
+[12W Nov 15](week_12/wednesday.html) | NCP/MVP/PoC intro | &nbsp; 
 |
-13M Nov 20 | PoC Prototyping | Paper Draft
+13M Nov 20 | Open Studio | Paper Draft
 No Class | &nbsp; | &nbsp;
 |
-14M Nov 27 | Iteration | **Full PoC**
-14W Nov 29 | Iteration | &nbsp;
+14M Nov 27 | Open Studio | &nbsp;
+14W Nov 29 | Iteration | **Full PoC/NCP/MVP**
 |
 15M Dec 4 | Iteration | Final Paper
 15W Dec 6 | Iteration | &nbsp;
