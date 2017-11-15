@@ -92,9 +92,9 @@ No Class | &nbsp; | &nbsp;
 14W Nov 29 | Iteration | **Full PoC/NCP/MVP**
 |
 15M Dec 4 | Iteration | Final Paper
-15W Dec 6 | Iteration | &nbsp;
+15W Dec 6 | Iteration | **Final Project**
 |
-16M Dec 11 | Final Crit | **Final Project**
+16M Dec 11 | Final Crit | Final Presentation
 16W Dec 13 | Final Crit | &nbsp;
 |
 17M Dec 18 | Site Reviews, Reflection | Final Site, Reading 1
