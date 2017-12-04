@@ -91,8 +91,8 @@ No Class | &nbsp; | &nbsp;
 14M Nov 27 | Open Studio | &nbsp;
 14W Nov 29 | Iteration | **Full PoC/NCP/MVP**
 |
-15M Dec 4 | Iteration | Final Paper
-15W Dec 6 | Iteration | **Final Project**
+[15M Dec 4](week_15/monday.html) | Final Presentation Format, Discussion, Worktime, 1-on-1s | Final Paper
+15W Dec 6 | Discussion, Worktime, 1-on-1s | **Final Project**
 |
 16M Dec 11 | Final Crit | Final Presentation
 16W Dec 13 | Final Crit | &nbsp;
