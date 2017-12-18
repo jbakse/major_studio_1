@@ -97,7 +97,7 @@ No Class | &nbsp; | &nbsp;
 16M Dec 11 | Final Crit | Final Presentation
 16W Dec 13 | Final Crit | &nbsp;
 |
-17M Dec 18 | Site Reviews, Reflection | Final Site, Reading 1
+[17M Dec 18](week_17/monday.html) | Site Reviews, Reflection | Final Site, Reading 1
 
 
 
