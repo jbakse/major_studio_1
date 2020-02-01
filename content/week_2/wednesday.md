@@ -153,24 +153,6 @@ North American Cacti | Uses of cactus needles in North American indigenous cultu
 ### Exploring Topic Focus
 *Individual, 5 minutes*
 
-Consider the scope of your research topic. Is it too broad? Is it to narrow?
-
-Begin with a clean sheet of paper.
-
-1. Choose a topic suggested by your domain mapping exercise, write that topic in the middle of your paper.
-2. At the top of the page write a very broad phrasing of your topic.
-3. At the bottom of the page write a very narrowly focused version of your topic.
-4. Add a middle-broad topic.
-5. Add a middle-focused topic.
-
-
-Scope | Topic
---- | ---
-Super Broad     | The complete history of music
-Broad           | Japanese culture
-Moderate        | J-pop idols
-Specific        | How the depiction of sexuality differs in J-pop and western pop music videos
-Super Specific  | How visual references to Satanism are used in BABYMETAL's *Doki Doki Morning* music video.
 
 ### Forming Questions
 *Individual, 5 minutes*
