@@ -16,7 +16,7 @@
     "gulp-sequence": "^0.4.1",
     "gulp-watch": "^4.3.5",
     "gulp-wrap": "^0.11.0",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "require-dir": "^0.3.0"
   }
 }
